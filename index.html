@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M-VAVE Pocket Amp — Preset Build</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@300;400;500&family=Montserrat:wght@800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-wrap">
+
+    <!-- ── Header / Hero Section ────────────────────────── -->
+    <header class="app-header" role="banner">
+      <div class="header-brand">
+        <span class="brand-pill">M-VAVE POCKET AMP</span>
+        <span class="brand-schema">Schema v5.0 · Hardware Exacto</span>
+      </div>
+      <h1 class="hero-title" aria-label="Preset Build">
+        <span class="hero-logo-lockup">
+          <span class="logo-letter logo-b">B</span>
+          <span class="logo-center">
+            <span class="logo-preset">
+              <span>P</span><span>R</span><span>E</span><span>S</span><span>E</span><span>T</span>
+            </span>
+            <span class="logo-uil">UIL</span>
+          </span>
+          <span class="logo-letter logo-d">D</span>
+        </span>
+      </h1>
+      <p class="app-subtitle">Genera el prompt, pega la respuesta de la IA y visualiza tu tono en tiempo real.</p>
+    </header>
+
+    <!-- ── Pestañas ─────────────────────────────────────── -->
+    <nav class="tab-nav" role="tablist" aria-label="Secciones principales">
+      <button class="tab-btn active" role="tab" data-tab="generator" aria-selected="true">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M19.7 4.3a1.5 1.5 0 0 0-2.1 0l-1.9 1.9 2.1 2.1 1.9-1.9a1.5 1.5 0 0 0 0-2.1z"/>
+          <path d="m15.7 6.3-8.8 8.8a4 4 0 0 0-1.1 2.1L5 20l2.8-.8a4 4 0 0 0 2.1-1.1l8.8-8.8"/>
+          <circle cx="10" cy="14" r="1.5"/>
+        </svg>
+        ¿Cómo quieres Sonar?
+      </button>
+      <button class="tab-btn" role="tab" data-tab="simulator" aria-selected="false">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="2" y="4" width="20" height="16" rx="2"/>
+          <line x1="2" y1="9" x2="22" y2="9"/>
+          <circle cx="6" cy="6.5" r="1" fill="currentColor"/>
+          <circle cx="10" cy="6.5" r="1" fill="currentColor"/>
+          <circle cx="14" cy="6.5" r="1" fill="currentColor"/>
+          <line x1="6" y1="14" x2="18" y2="14"/>
+          <line x1="6" y1="16.5" x2="18" y2="16.5"/>
+        </svg>
+        Cabina de Tono
+      </button>
+    </nav>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- PESTAÑA 1: ¿CÓMO QUIERES SONAR?                     -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <main class="tab-content active" id="tab-generator">
+      <div class="card">
+
+        <!-- Formulario con Autocompletado Predictivo Inteligente -->
+        <form id="prompt-form" novalidate>
+          <div class="form-info-strip">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+            <span>Configura tu sonido por <strong>Artista y Canción</strong>, <strong>Género musical</strong> o emula una <strong>Guitarra icónica</strong>.</span>
+          </div>
+
+          <div class="form-grid">
+
+            <div class="form-field predictive-field-wrap">
+              <label for="artist-input" class="field-label">Banda o Artista</label>
+              <div class="input-clear-wrap">
+                <input type="text" id="artist-input" class="field-input"
+                       placeholder="Ej: Nirvana, Soda Stereo, Jimi Hendrix..." autocomplete="off">
+                <button type="button" class="btn-clear-input hidden" id="btn-clear-artist" title="Borrar texto" aria-label="Borrar artista">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                </button>
+              </div>
+              <div id="artist-suggestions" class="predictive-dropdown hidden" role="listbox"></div>
+            </div>
+
+            <div class="form-field predictive-field-wrap">
+              <label for="song-input" class="field-label">Canción específica</label>
+              <div class="input-clear-wrap">
+                <input type="text" id="song-input" class="field-input"
+                       placeholder="Ej: Come as you are, De música ligera..." autocomplete="off">
+                <button type="button" class="btn-clear-input hidden" id="btn-clear-song" title="Borrar texto" aria-label="Borrar canción">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                </button>
+              </div>
+              <div id="song-suggestions" class="predictive-dropdown hidden" role="listbox"></div>
+            </div>
+
+            <div class="form-field predictive-field-wrap">
+              <label for="genre-input" class="field-label">Género musical <span class="field-optional">(Opcional)</span></label>
+              <div class="input-with-button">
+                <div class="input-clear-wrap">
+                  <input type="text" id="genre-input" class="field-input"
+                         placeholder="Ej: Rock, Metal, Blues, Jazz, Reggae..." autocomplete="off">
+                  <button type="button" class="btn-clear-input hidden" id="btn-clear-genre" title="Borrar texto" aria-label="Borrar género">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                  </button>
+                </div>
+                <button type="button" id="btn-toggle-genres" class="btn btn-secondary btn-input-addon" title="Ver catálogo de géneros" aria-label="Desplegar géneros">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                </button>
+              </div>
+              <div id="genre-suggestions" class="predictive-dropdown hidden" role="listbox"></div>
+            </div>
+
+            <div class="form-field predictive-field-wrap">
+              <label for="guitar-input" class="field-label">Modelo de Guitarra <span class="field-optional">(Opcional)</span></label>
+              <div class="input-with-button">
+                <div class="input-clear-wrap">
+                  <input type="text" id="guitar-input" class="field-input"
+                         placeholder="Ej: Stratocaster, Les Paul Slash, Telecaster..." autocomplete="off">
+                  <button type="button" class="btn-clear-input hidden" id="btn-clear-guitar" title="Borrar texto" aria-label="Borrar modelo de guitarra">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+                  </button>
+                </div>
+                <button type="button" id="btn-toggle-guitars" class="btn btn-secondary btn-input-addon" title="Ver catálogo de guitarras icónicas" aria-label="Desplegar guitarras">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+                </button>
+              </div>
+              <div id="guitar-suggestions" class="predictive-dropdown hidden" role="listbox"></div>
+            </div>
+
+          </div>
+
+          <!-- Badge de tono detectado si se seleccionó de la base de datos -->
+          <div id="selected-song-meta" class="selected-song-meta hidden">
+            <div class="meta-tag-pill">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+              <span>Perfil acústico de canción detectado en Base de Datos</span>
+            </div>
+            <div id="selected-song-details" class="meta-details-text"></div>
+          </div>
+
+          <!-- Badge de guitarra detectada si se seleccionó del catálogo -->
+          <div id="selected-guitar-meta" class="selected-guitar-meta hidden">
+            <div class="meta-tag-pill meta-tag-pill--guitar">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19.7 4.3a1.5 1.5 0 0 0-2.1 0l-1.9 1.9 2.1 2.1 1.9-1.9a1.5 1.5 0 0 0 0-2.1z"/><path d="m15.7 6.3-8.8 8.8a4 4 0 0 0-1.1 2.1L5 20l2.8-.8a4 4 0 0 0 2.1-1.1l8.8-8.8"/><circle cx="10" cy="14" r="1.5"/></svg>
+              <span>Identidad Sónica de Guitarra</span>
+            </div>
+            <div id="selected-guitar-details" class="meta-details-text"></div>
+          </div>
+
+          <div class="form-actions">
+            <button type="button" id="btn-generate" class="btn btn-primary">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+              Generar Instrucción para la IA
+            </button>
+          </div>
+        </form>
+
+        <!-- Output del prompt blindado (oculto por defecto) -->
+        <section id="prompt-vault-section" class="output-section hidden">
+          <div class="vault-card">
+            <div class="vault-icon-badge">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                <polyline points="9 12 11 14 15 10"/>
+              </svg>
+            </div>
+            <div class="vault-body">
+              <h3 class="vault-title">¡Instrucción Acústica Generada y Blindada!</h3>
+              <p class="vault-desc">
+                La configuración y cadena DSP para el hardware M-VAVE ha sido <strong>copiada automáticamente a tu portapapeles</strong>.
+              </p>
+
+              <div class="vault-steps">
+                <div class="vault-step">
+                  <span class="vault-step-num">1</span>
+                  <span>Abre tu IA favorita (ChatGPT, Gemini o Claude).</span>
+                </div>
+                <div class="vault-step">
+                  <span class="vault-step-num">2</span>
+                  <span>Presiona <strong>Ctrl + V</strong> para pegar y enviar.</span>
+                </div>
+                <div class="vault-step">
+                  <span class="vault-step-num">3</span>
+                  <span>Copia la respuesta de la IA y haz clic en <strong>Cabina de Tono</strong>.</span>
+                </div>
+              </div>
+
+              <div class="vault-actions">
+                <button type="button" id="btn-copy-vault" class="btn btn-primary">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+                  <span id="vault-copy-label">Copiar Instrucción Nuevamente</span>
+                </button>
+                <button type="button" id="btn-go-to-simulator" class="btn btn-secondary">
+                  <span>Ir a Cabina de Tono</span>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+                </button>
+              </div>
+
+              <!-- Texto protegido y colapsado (para emergencias/depuración, cerrado por defecto) -->
+              <details class="vault-raw-details">
+                <summary class="vault-details-toggle">Ver texto de la instrucción (Opciones avanzadas)</summary>
+                <textarea id="prompt-output" class="field-textarea vault-textarea" readonly spellcheck="false"></textarea>
+              </details>
+            </div>
+          </div>
+          <div id="gen-feedback" class="feedback-msg" role="status" aria-live="polite"></div>
+        </section>
+
+      </div>
+    </main>
+
+    <!-- ═══════════════════════════════════════════════════ -->
+    <!-- PESTAÑA 2: CABINA DE TONO                          -->
+    <!-- ═══════════════════════════════════════════════════ -->
+    <main class="tab-content" id="tab-simulator">
+
+      <!-- Botón directo de Pegado -->
+      <div class="card sim-paste-card">
+        <div class="sim-paste-header">
+          <div class="sim-paste-badge">PROCESADOR INTELIGENTE</div>
+          <h2 class="section-title">Carga tu Tono de Guitarra</h2>
+          <p class="section-sub">Haz clic en el botón para leer el portapapeles y renderizar el rig y sus parámetros al instante.</p>
+        </div>
+
+        <div class="sim-paste-actions">
+          <button type="button" id="btn-paste-ai" class="btn btn-primary btn-paste-hero">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="hero-icon">
+              <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>
+              <rect x="8" y="2" width="8" height="4" rx="1" ry="1"/>
+              <path d="M12 11h4M12 16h4M8 11h.01M8 16h.01"/>
+            </svg>
+            <span>Pegar Tono de la IA</span>
+          </button>
+
+          <button type="button" id="btn-import-file" class="btn btn-secondary btn-paste-sub" title="Cargar archivo .bkx nativo de M-VAVE">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+            <span>Cargar archivo .bkx</span>
+          </button>
+          <input type="file" id="file-import-input" accept=".bkx" class="sr-only">
+        </div>
+
+        <div id="parser-feedback" class="feedback-msg" role="status" aria-live="polite"></div>
+      </div>
+
+      <!-- ── Visualizador del Rig (oculto hasta cargar preset) ── -->
+      <div id="rig-visualizer" class="rig-visualizer hidden">
+
+        <div class="rig-top-bar">
+          <div class="preset-meta">
+            <span id="meta-artist" class="meta-artist"></span>
+            <span id="meta-song"   class="meta-song"></span>
+            <span id="meta-notes"  class="meta-notes"></span>
+          </div>
+          <div class="rig-actions">
+            <button id="btn-export-bkx" class="btn btn-secondary btn-sm" title="Descarga archivo .bkx nativo para importar en la app M-VAVE">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>
+              Exportar .bkx (M-VAVE)
+            </button>
+            <button id="btn-save-preset" class="btn btn-primary btn-sm">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"/><polyline points="17 21 17 13 7 13 7 21"/><polyline points="7 3 7 8 15 8"/></svg>
+              Guardar en Biblioteca
+            </button>
+          </div>
+        </div>
+
+        <!-- Barra visual de Cadena de Señal (Signal Chain) con iconos idénticos a la app M-VAVE -->
+        <div class="signal-chain-container">
+          <div class="signal-chain-title">
+            <span>CADENA DE SEÑAL (ORDEN DEL AUDIO)</span>
+            <span class="signal-chain-hint">El orden altera el resultado acústico y se exporta al archivo .bkx</span>
+          </div>
+          <div id="signal-chain-bar" class="signal-chain-bar"></div>
+        </div>
+
+        <!-- Contenedor de bloques (6 bloques dinámicamente ordenados) -->
+        <div id="rig-blocks" class="rig-blocks"></div>
+
+      </div>
+      <!-- /rig-visualizer -->
+
+      <!-- ── Biblioteca de Presets ───────────────────────── -->
+      <div class="library-wrap">
+        <div class="library-header">
+          <h2 class="section-title">Biblioteca de Presets</h2>
+          <span id="preset-count" class="count-pill">0 presets</span>
+        </div>
+        <div id="preset-grid" class="preset-grid">
+          <div id="library-empty" class="library-empty">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M9 3H5a2 2 0 0 0-2 2v4m6-6h10a2 2 0 0 1 2 2v4M9 3v18m0 0h10a2 2 0 0 0 2-2V9M9 21H5a2 2 0 0 1-2-2V9m0 0h18"/></svg>
+            <p>Tu biblioteca está vacía.<br>Carga un preset de la IA y guárdalo aquí.</p>
+          </div>
+        </div>
+      </div>
+
+    </main>
+    <!-- /tab-simulator -->
+
+    <footer class="app-footer">
+      M-VAVE Pocket Amp Preset Build &bull; FX · AMP · CAB · MOD · REV · DLY &bull; Hardware Exact Schema v5.0
+    </footer>
+
+  </div><!-- /app-wrap -->
+
+  <!-- ── Modal de Guardado ─────────────────────────────── -->
+  <div id="save-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-box">
+      <h3 class="modal-title" id="modal-title">Guardar Preset</h3>
+      <div class="form-field">
+        <label for="preset-name-input" class="field-label">
+          Nombre del preset
+          <span class="field-hint">Ej: Nirvana — Come As You Are</span>
+        </label>
+        <div class="input-clear-wrap">
+          <input type="text" id="preset-name-input" class="field-input"
+                 placeholder="Escribe un nombre para este preset...">
+          <button type="button" class="btn-clear-input hidden" id="btn-clear-preset-name" title="Borrar texto" aria-label="Borrar nombre de preset">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button id="modal-confirm" class="btn btn-primary">Guardar</button>
+        <button id="modal-cancel"  class="btn btn-secondary">Cancelar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Modal de Pegado Manual de Respaldo ─────────────── -->
+  <div id="paste-modal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="paste-modal-title">
+    <div class="modal-box">
+      <h3 class="modal-title" id="paste-modal-title">Pegar Tono de la IA</h3>
+      <p class="modal-sub">Pega aquí el texto o bloque JSON que te devolvió la IA (presiona <strong>Ctrl + V</strong>):</p>
+      <div class="form-field" style="margin-top:12px;">
+        <div class="input-clear-wrap input-clear-wrap--textarea">
+          <textarea id="paste-modal-input" class="field-textarea ai-textarea" placeholder="Pega aquí con Ctrl + V..." spellcheck="false"></textarea>
+          <button type="button" class="btn-clear-input btn-clear-textarea hidden" id="btn-clear-paste" title="Borrar texto" aria-label="Borrar texto pegado">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button id="paste-modal-confirm" class="btn btn-primary">Cargar Tono</button>
+        <button id="paste-modal-cancel"  class="btn btn-secondary">Cancelar</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts (orden importa — dependencias primero) -->
+  <script src="hardware.js"></script>
+  <script src="database.js"></script>
+  <script src="prompt.js"></script>
+  <script src="parser.js"></script>
+  <script src="renderer.js"></script>
+  <script src="editor.js"></script>
+  <script src="bkx.js"></script>
+  <script src="library.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
