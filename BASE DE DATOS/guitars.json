@@ -1,0 +1,1073 @@
+?[
+    {
+        "body":  "Caoba maciza con tapa curvada de arce flameado (Maple cap)",
+        "name":  "Gibson Les Paul Standard \u002759 (Slash / Jimmy Page)",
+        "pickups":  "2 Humbuckers PAF / Alnico II Pro (Slash APH-2)",
+        "tonalProfile":  "Graves contundentes pero redondos, medios muy cremosos y concentrados (600-900 Hz), pastilla de mástil líquida y sustain eterno para solos cantables.",
+        "context":  "El estandarte del hard rock mundial. Utilizada por Slash (Guns N\u0027 Roses en Appetite for Destruction) y Jimmy Page en directo.",
+        "category":  "Solidbody Humbucker",
+        "dspRecommendations":  "Marshall JCM800 o Plexi británico crujiente, ganancia media-alta, presencia calibrada al 55% para no resultar estridente."
+    },
+    {
+        "body":  "Caoba de una pieza con repintado histórico Cherry Red de fábrica Gibson",
+        "name":  "Gibson Les Paul Standard \u002757 / \u002768 \u0027Lucy\u0027 (The Beatles / Eric Clapton)",
+        "pickups":  "2 Humbuckers PAF Originales de baja salida",
+        "tonalProfile":  "Respuesta mucho más amaderada, oscura, dulce y vocal que una Les Paul moderna. Menor ganancia en pastillas permitiendo una dinámica orgánica y llanto expresivo.",
+        "context":  "Regalada por Eric Clapton a George Harrison en 1968. Es la guitarra que llora en el solo de \u0027While My Guitar Gently Weeps\u0027 y usada en el \u0027White Album\u0027 y \u0027Abbey Road\u0027.",
+        "category":  "Vintage Humbucker",
+        "dspRecommendations":  "Ampli a válvulas británico o tweed saturando en el punto dulce de ruptura, boost suave de medios, compresión tenue y reverb clásica."
+    },
+    {
+        "body":  "Caoba antigua con tapa de arce flameado y acabado desvaído",
+        "name":  "Gibson Les Paul \u002759 \u0027Greeny\u0027 (Peter Green / Gary Moore / Kirk Hammett)",
+        "pickups":  "2 Humbuckers PAF (pastilla de mástil con imán invertido y colocada al revés)",
+        "tonalProfile":  "Posición central completamente nasal, acampanada, hueca y cortante, similar a un wah fijo o una Stratocaster pero con el cuerpo y sustain de caoba.",
+        "context":  "Perteneció a Peter Green (Fleetwood Mac), luego a Gary Moore (\u0027Parisienne Walkways\u0027) y hoy a Kirk Hammett. El secreto de su sonido \u0027fuera de fase\u0027 en la posición intermedia.",
+        "category":  "Out-of-Phase Vintage",
+        "dspRecommendations":  "Ampli a válvulas crujiente, ecualización con agudos abiertos y medios altos presentes (2.5 kHz), excelente para blues británico desgarrador."
+    },
+    {
+        "body":  "Caoba pesada con mástil rebajado al perfil más fino (\u0027Page Oval\u0027)",
+        "name":  "Gibson Les Paul Standard \u002759 \u0027#1\u0027 (Jimmy Page - Led Zeppelin)",
+        "pickups":  "PAF de mástil cubierto + Seymour Duncan / PAF puente descubierto",
+        "tonalProfile":  "Ataque híper-rápido y mordiente en puente gracias a la pastilla descubierta, capaz de pasar de riffs gigantes a arpegios acústicos semi-claros.",
+        "context":  "La guitarra principal de Jimmy Page en Led Zeppelin. Equipada con conmutadores push-pull para inversión de fase y serie/paralelo.",
+        "category":  "Classic Rock Modified",
+        "dspRecommendations":  "Marshall Super Lead 100 / Hiwatt, overdrive transparente, eco de cinta corto y respuesta muy sensible al pote de volumen."
+    },
+    {
+        "body":  "Caoba maciza pesada con acabado Goldtop nitrocelulosa",
+        "name":  "Gibson Les Paul Goldtop \u002756 (Pastillas P-90 Soapbar)",
+        "pickups":  "2 P-90 Soapbar Single-Coil de bobinado clásico",
+        "tonalProfile":  "El rugido inconfundible del P-90: ataque percusivo y brillante de bobina simple combinado con el espesor, medios crujientes y empuje grave de la caoba.",
+        "context":  "La era dorada previa a los humbuckers. Usada por Freddie King, Mike Bloomfield, Neil Young (\u0027Old Black\u0027 modificada) y Social Distortion.",
+        "category":  "Single Coil P-90",
+        "dspRecommendations":  "Ampli Tweed americano o Marshall Plexi en borde de saturación, dinámicamente reactivo al toque de púa, sin compresor excesivo."
+    },
+    {
+        "body":  "Cuerpo íntegro de caoba maciza con diapasón de ébano oscuro de alta densidad",
+        "name":  "Gibson Les Paul Custom \u0027Black Beauty\u0027 (Frampton / Randy Rhoads / Page)",
+        "pickups":  "2 o 3 Humbuckers PAF / 490R-498T con herrajes dorados",
+        "tonalProfile":  "Ataque percusivo más veloz y agudos más brillantes y definidos que una Standard debido a la dureza del diapasón de ébano; graves muy compactos.",
+        "context":  "La versión de máximo lujo de Gibson. Famosa en \u0027Frampton Comes Alive\u0027, el sonido heavy neoclásico de Randy Rhoads con Ozzy y solos de Jimmy Page.",
+        "category":  "Solidbody Humbucker",
+        "dspRecommendations":  "Overdrive de alta definición, crunch británico modificado, presencia equilibrada para no perder la distinción nota por nota en acordes."
+    },
+    {
+        "body":  "Tablón sólido y plano de caoba sin tapa de arce",
+        "name":  "Gibson Les Paul Junior / Special \u002758 (Leslie West / Billie Joe Armstrong)",
+        "pickups":  "1 o 2 pastillas P-90 Dogear atornilladas directo a la madera",
+        "tonalProfile":  "Resonancia total directa de madera a pastilla. Medios explosivos y crudos, dinámica arrolladora y sustain despojado de circuitería compleja.",
+        "context":  "El espíritu más puro y directo del rock. La máquina de \u0027Mississippi Queen\u0027 (Mountain) y el punk melódico de Green Day (\u0027American Idiot\u0027).",
+        "category":  "Raw Rock P-90",
+        "dspRecommendations":  "Ampli a tope de volumen natural (Junior = un solo pote de tono y volumen), Tube Screamer o boost frontal."
+    },
+    {
+        "body":  "Caoba con tapa de arce curvada en acabado Tobacco Burst desvanecido",
+        "name":  "Gibson Les Paul \u0027Babe\u0027 \u002759 (Joe Perry - Aerosmith / Slash)",
+        "pickups":  "2 Humbuckers PAF Alnico V",
+        "tonalProfile":  "Crunch espeso y grasoso estilo Boston blues-rock, medios bajos muy carnosos y respuesta inmediata al ataque de púa.",
+        "context":  "Tocada por Joe Perry en los himnos \u0027Walk This Way\u0027 y \u0027Sweet Emotion\u0027, luego propiedad de Slash durante 15 años y devuelta a Perry en su cumpleaños 50.",
+        "category":  "Solidbody Humbucker",
+        "dspRecommendations":  "Ampli británico crujiente empujado por un overdrive sutil, agudos recortados para evitar aspereza."
+    },
+    {
+        "body":  "Caoba de una pieza con tapa de arce curvada",
+        "name":  "Gibson Les Paul \u0027Duane Allman\u0027 \u002757 Goldtop / \u002759 Darkburst (Allman Brothers)",
+        "pickups":  "2 Humbuckers PAF de imanes desmagnetizados",
+        "tonalProfile":  "Sustain vocal infinito para slide con tubo Coricidin de vidrio, medios cantables y agudos dulces que emulan una voz humana.",
+        "context":  "La voz legendaria del Southern Rock y del slide en \u0027At Fillmore East\u0027 (\u0027Statesboro Blues\u0027, \u0027Whipping Post\u0027) y en las grabaciones de Derek and the Dominos (\u0027Layla\u0027).",
+        "category":  "Southern Rock Slide",
+        "dspRecommendations":  "Marshall Plexi de 50W al punto de romper, graves moderados, compresor tenue y eco de cinta sutil."
+    },
+    {
+        "body":  "Caoba maciza con tapa decapada a madera natural (stripped maple)",
+        "name":  "Gibson Les Paul \u0027Mick Ronson\u0027 \u002768 Custom (David Bowie - Spiders from Mars)",
+        "pickups":  "2 Humbuckers Gibson T-Top vintage con tapas retiradas",
+        "tonalProfile":  "Sonido agresivo y cortante: combinaba las tapas abiertas con un pedal Wah Crybaby dejado fijo a mitad de recorrido para realzar medios cortantes.",
+        "context":  "El arquitecto del sonido de David Bowie en la era Ziggy Stardust (\u0027Moonage Daydream\u0027, \u0027Suffragette City\u0027) y Lou Reed (\u0027Transformer\u0027).",
+        "category":  "Glam Rock Icon",
+        "dspRecommendations":  "Ampli Marshall Major al límite con un filtro de medios o wah en posición fija en bloque FX."
+    },
+    {
+        "body":  "Caoba con tapa de arce flameado y desgaste natural en bordes",
+        "name":  "Gibson Les Paul \u0027Mike McCready\u0027 \u002759 (Pearl Jam)",
+        "pickups":  "2 Humbuckers PAF originales de baja salida",
+        "tonalProfile":  "Matices blueseros dentro de la potencia del grunge de Seattle: graves compactos y agudos que muerden sin perder calidez.",
+        "context":  "La guitarra principal de Mike McCready para los solos históricos de Pearl Jam (\u0027Alive\u0027, \u0027Even Flow\u0027, \u0027Yellow Ledbetter\u0027).",
+        "category":  "Grunge Lead Icon",
+        "dspRecommendations":  "Ampli Marshall JCM800 o Fender Bassman con Tube Screamer como boost en solos, reverb de muelles."
+    },
+    {
+        "body":  "Caoba con pintura negra sobre el Goldtop original, golpeador de aluminio y Bigsby",
+        "name":  "Gibson Les Paul \u0027Neil Young\u0027 \u0027Old Black\u0027 \u002753 Goldtop (Crazy Horse)",
+        "pickups":  "Firebird Mini-Humbucker en puente + P-90 original en mástil",
+        "tonalProfile":  "Furia descontrolada, graves crujientes y un acople armónico permanente gracias al golpeador de aluminio y la pastilla Firebird de alta microfonía.",
+        "context":  "La guitarra más salvaje del rock. La voz distorsionada de Neil Young en \u0027Like a Hurricane\u0027, \u0027Hey Hey, My My\u0027 y \u0027Rust Never Sleeps\u0027.",
+        "category":  "Apocalyptic Fuzz Rock",
+        "dspRecommendations":  "Ampli Fender Deluxe Tweed al volumen 12 con pedal de distorsión/fuzz primitivo y corte de agudos."
+    },
+    {
+        "body":  "Cuerpo de Standard con mástil injertado de Les Paul Custom con clavijero de ébano",
+        "name":  "Gibson Les Paul \u0027Marc Bolan\u0027 \u002760s Chibson/Custom Hybrid (T. Rex)",
+        "pickups":  "2 Humbuckers PAF descubiertos en cebra",
+        "tonalProfile":  "Riffing directo y crujiente, dinámico y percusivo con un brillo metálico muy característico en medios altos.",
+        "context":  "La máquina de \u002720th Century Boy\u0027, \u0027Get It On\u0027 y \u0027Children of the Revolution\u0027 de T. Rex que catapultó el glam rock británico.",
+        "category":  "Glam Proto-Punk",
+        "dspRecommendations":  "Overdrive Colorsound o fuzz ligero empujando un ampli a válvulas saturado."
+    },
+    {
+        "body":  "Caoba con tapa de arce curvada",
+        "name":  "Gibson Les Paul \u0027Gary Rossington\u0027 \u002759 \u0027Bernice\u0027 (Lynyrd Skynyrd)",
+        "pickups":  "2 Humbuckers PAF con herrajes niquelados envejecidos",
+        "tonalProfile":  "Afinada con agudos brillantes pero redondos para armonizar en terceras sin generar frecuencias disonantes.",
+        "context":  "La guitarra que compuso y grabó \u0027Sweet Home Alabama\u0027, \u0027Simple Man\u0027 y el dueto de guitarras de \u0027Free Bird\u0027.",
+        "category":  "Southern Classic",
+        "dspRecommendations":  "Ampli Peavey Mace o Marshall vintage con ganancia limpia-crujiente y presencia controlada."
+    },
+    {
+        "body":  "Fresno (Ash) o Aliso con mástil y diapasón de una sola pieza de arce (Maple)",
+        "name":  "Fender Stratocaster \u002754 / \u002757 (Eric Johnson / Buddy Holly)",
+        "pickups":  "3 Single-Coils Vintage Alnico III con bobinado bajo",
+        "tonalProfile":  "Sonido acampanado (\u0027bell chime\u0027), agudos vidriosos (\u0027glassy\u0027), medios ahuecados (\u0027scooped\u0027) y ataque de púa ultra percusivo e instantáneo.",
+        "context":  "La génesis de la Stratocaster. El sonido cristalino de campana de Buddy Holly y el tono violinico de Eric Johnson (\u0027Cliffs of Dover\u0027).",
+        "category":  "Single Coil Maple",
+        "dspRecommendations":  "Ampli Fender Twin Reverb o Deluxe Reverb limpio, compresor óptico sutil, corte en subgraves para evitar bombeo en graves."
+    },
+    {
+        "body":  "Aliso selecto con diapasón de palisandro (Rosewood) oscuro",
+        "name":  "Fender Stratocaster \u002762 / \u002769 (Jimi Hendrix / SRV / Frusciante)",
+        "pickups":  "3 Single-Coil Alnico V bobinado estilo años 60",
+        "tonalProfile":  "Agudos más dulces, cálidos y redondeados que el arce, con medios más presentes y el característico \u0027quack\u0027 nasal en posiciones intermedias (2 y 4).",
+        "context":  "La era dorada de los 60. El tono de Jimi Hendrix en estudio, el toque blues de Stevie Ray Vaughan y las melodías de Frusciante en RHCP.",
+        "category":  "Single Coil Rosewood",
+        "dspRecommendations":  "Overdrive clásico estilo TS9/TS808, pedal Wah o Univibe en bloque FX, reverb Spring amplia y simulación de amplificador británico/US crujiente."
+    },
+    {
+        "body":  "Aliso negro con golpeador negro de una capa y mini-switch de mezcla mástil+puente",
+        "name":  "Fender Stratocaster \u002769 \u0027Black Strat\u0027 (David Gilmour - Pink Floyd)",
+        "pickups":  "Custom Shop \u002769 en mástil, SSL-1 en centro y Seymour Duncan SSL-5 de alta salida en puente",
+        "tonalProfile":  "El puente SSL-5 ofrece la pegada y grosor de un humbucker pero con claridad Strat; los solos cantan con sustain infinito y graves expansivos.",
+        "context":  "La guitarra central de \u0027The Dark Side of the Moon\u0027, \u0027Wish You Were Here\u0027 y \u0027Comfortably Numb\u0027. Subastada por récord histórico.",
+        "category":  "Progressive Stratocaster",
+        "dspRecommendations":  "Fuzz estilo Big Muff, delay rítmico sincronizado (440ms), modulación ligera (Chorus / Uni-Vibe) y ampli limpio de gran techo como Hiwatt / Twin."
+    },
+    {
+        "body":  "Aliso olímpico con pala grande setentera y puente invertido",
+        "name":  "Fender Stratocaster \u0027Woodstock / Monterey\u0027 (Jimi Hendrix)",
+        "pickups":  "3 Single-Coil Alnico V invertidas por cuerpo de zurdo tocado a derechas",
+        "tonalProfile":  "Las cuerdas graves tienen un timbre más agudo y definido (pastilla más cerca del puente en bordones) y las cuerdas agudas son más cálidas y redondeadas.",
+        "context":  "Jimi encordaba guitarras diestras para zurdos: la pastilla del puente quedaba inclinada al revés, alterando radicalmente el balance de cuerdas.",
+        "category":  "Reverse Angle Strat",
+        "dspRecommendations":  "Fuzz Face de silicio/germanio al límite, ampli Marshall Plexi 1959 Super Lead al máximo de volumen, acoples armónicos ricos."
+    },
+    {
+        "body":  "Aliso \u002762 con mástil de arce grueso \u002759 (\u0027D\u0027 perfil) y puente de zurdo dorado",
+        "name":  "Fender Stratocaster \u0027Number One\u0027 (Stevie Ray Vaughan)",
+        "pickups":  "Custom overwound \u002759 con cableado grueso y gran salida",
+        "tonalProfile":  "Tono monstruoso: el \u0027twang\u0027 y ataque de una Stratocaster pero con un grosor, cuerpo y garra semejante a un piano de cola con saturación valvular.",
+        "context":  "El arma de SRV en \u0027Texas Flood\u0027 y \u0027Pride and Joy\u0027. Calibrada con cuerdas de calibre gigante (0.13 a 0.58) afinada medio tono abajo (Eb).",
+        "category":  "Texas Blues Heavyweight",
+        "dspRecommendations":  "Tube Screamer empujando la entrada, amplificador Fender Super Reverb / Vibroverb al 6 de volumen, compresión natural del altavoz."
+    },
+    {
+        "body":  "Aliso selecto con mástil suave en \u0027V\u0027 y puente bloqueado con taco de madera",
+        "name":  "Fender Stratocaster Eric Clapton \u0027Blackie\u0027 (Active Mid-Boost)",
+        "pickups":  "Fender Vintage Noiseless / Lace Sensor Gold con circuito activo de 25dB",
+        "tonalProfile":  "Limpio cristalino y silencioso sin zumbido a volúmenes altos; al girar el boost, se transforma en la compresión y tono gordo de un humbucker PAF.",
+        "context":  "La guitarra de la era solista de Clapton (\u0027Layla\u0027 acústico/eléctrico, \u0027Journeyman\u0027). Su perilla de tono secundaria activa un boost masivo de medios.",
+        "category":  "Active Boost Strat",
+        "dspRecommendations":  "Ampli estilo Tweed Twin o Soldano SLO, modulación chorus sutil y dinámica abierta."
+    },
+    {
+        "body":  "Aliso despojado del 90% de pintura por el sudor corrosivo de Rory",
+        "name":  "Fender Stratocaster \u0027Rory Gallagher\u0027 \u002761 Relic (Rory Gallagher)",
+        "pickups":  "3 Single-Coil \u002761 bobinadas a mano con condensadores de papel en aceite",
+        "tonalProfile":  "Mordiente salvaje en agudos, ataque percusivo ultra veloz y dinámica que responde a la uña y púa con fiereza.",
+        "context":  "La guitarra más fiera del blues-rock europeo. Usada en \u0027Live in Europe\u0027 e \u0027Irish Tour \u002774\u0027 con un tono crudo e incendiario.",
+        "category":  "Irish Blues Rock",
+        "dspRecommendations":  "Treble Booster Dallas Rangemaster virtual antes de un ampli Vox AC30 al límite de saturación."
+    },
+    {
+        "body":  "Aliso con mástil grueso de perfil \u0027C\u0027 suave",
+        "name":  "Fender Stratocaster \u0027Jeff Beck\u0027 Signature (Jeff Beck)",
+        "pickups":  "Hot Noiseless Cerámicas con cejuela de rodamientos LSR y puente de 2 pivotes",
+        "tonalProfile":  "Capacidad microtonal única: agudos vocales sin aspereza, medios densos y capacidad de modular notas sin desafinar.",
+        "context":  "El instrumento con el que Jeff Beck cantaba sin púa usando la palanca de trémolo y el pulgar (\u0027Cause We\u0027ve Ended as Lovers\u0027).",
+        "category":  "Virtuoso Nuance",
+        "dspRecommendations":  "Ampli Marshall JTM45 crujiente, compresor de estudio, uso intensivo del control de volumen y tono."
+    },
+    {
+        "body":  "Aliso Olympic White envejecido con mástil de arce escalopado (Scalloped)",
+        "name":  "Fender Stratocaster \u0027Yngwie Malmsteen\u0027 \u0027The Duck\u0027 (Yngwie Malmsteen)",
+        "pickups":  "Seymour Duncan YJM Fury Stacked Single-Coils (sin ruido)",
+        "tonalProfile":  "Articulación cristalina a velocidades sobrehumanas; agudos definidos que nunca suenan estridentes y graves precisos.",
+        "context":  "Pionera del metal neoclásico (\u0027Black Star\u0027, \u0027Far Beyond the Sun\u0027). El diapasón escalopado permite un agarre y vibrato extremo sin tocar la madera.",
+        "category":  "Neoclassical Shred",
+        "dspRecommendations":  "Pedal DOD 250 Overdrive / Preamp empujando un Marshall Plexi con puerta de ruido estricta."
+    },
+    {
+        "body":  "Aliso acabado en negro con topos blancos (\u0027Polka Dot\u0027)",
+        "name":  "Fender Stratocaster \u0027Buddy Guy\u0027 Polka Dot (Buddy Guy)",
+        "pickups":  "3 Single-Coil Vintage Noiseless con circuito de realce de agudos",
+        "tonalProfile":  "Punzante, dramático y de dinámicas explosivas: pasa de un murmullo limpio a un chasquido desgarrador en una sola nota.",
+        "context":  "La voz viva del Chicago blues más agresivo y teatral. El mentor de Hendrix, Clapton y Stevie Ray Vaughan.",
+        "category":  "Chicago Blues Wild",
+        "dspRecommendations":  "Fender Bassman Tweed al 7, wah wah abierto y reverb de resortes profunda."
+    },
+    {
+        "body":  "Fresno ligero con acabado Hot Rod Red y mástil de arce de los 50",
+        "name":  "Fender Stratocaster \u0027Mark Knopfler\u0027 \u002761 Hot Rod Red (Dire Straits)",
+        "pickups":  "3 Texas Special Single-Coils bobinado vintage",
+        "tonalProfile":  "El arquetipo de la posición intermedia 2 (mástil + centro): \u0027quack\u0027 líquido, campana vidriosa y separación armónica prístina.",
+        "context":  "El inconfundible tono de \u0027Sultans of Swing\u0027, \u0027Romeo and Juliet\u0027 y \u0027Tunnel of Love\u0027. Tocada exclusivamente con técnica fingerpicking sin púa.",
+        "category":  "Fingerstyle Glass",
+        "dspRecommendations":  "Compresor Dan Armstrong Orange Squeezer o Dynacomp, ampli limpio de alta fidelidad (JC120 o Twin)."
+    },
+    {
+        "body":  "Aliso con puente Floyd Rose y killswitch conmutador integrado",
+        "name":  "Fender Stratocaster \u0027Tom Morello\u0027 \u0027Soul Power\u0027 (Audioslave / RATM)",
+        "pickups":  "Seymour Duncan Hot Rails en puente + 2 Fender Noiseless en mástil/centro",
+        "tonalProfile":  "Puente demoledor de humbucker en formato single-coil; capacidad de alternar entre silencio rítmico y feedback estridente al instante.",
+        "context":  "La máquina de riffs masivos de Audioslave (\u0027Cochise\u0027, \u0027Like a Stone\u0027) con el switch de corte para emular scratches de DJ hip-hop.",
+        "category":  "Alternative Rock Innovation",
+        "dspRecommendations":  "Marshall JCM800 2205 de ganancia alta, Whammy / Pitch Shifter en bloque FX, delay sincronizado."
+    },
+    {
+        "body":  "Aliso macizo con puente rígido hardtail (sin trémolo) para máxima resonancia",
+        "name":  "Fender Stratocaster \u0027Billy Corgan\u0027 (Smashing Pumpkins)",
+        "pickups":  "DiMarzio Billy Corgan Custom Rail Pickups (alta salida y sin zumbido)",
+        "tonalProfile":  "Sonido colosal y denso: agudos enfocados y graves sólidos como una roca que no pierden afinación bajo afinaciones alternativas pesadas.",
+        "context":  "El muro de guitarras de \u0027Siamese Dream\u0027 y \u0027Mellon Collie and the Infinite Sadness\u0027 (\u0027Cherub Rock\u0027, \u0027Today\u0027).",
+        "category":  "90s Wall of Sound",
+        "dspRecommendations":  "Fuzz Electro-Harmonix Big Muff Op-Amp empujando un Marshall JCM800 de 100W."
+    },
+    {
+        "body":  "Aliso con rebaje ergonómico moderno y electrónica split-coil",
+        "name":  "Fender Stratocaster HSS (Superstrat Versátil de Estudio)",
+        "pickups":  "1 Humbucker moderno en puente + 2 Single-Coil vintage en centro y mástil",
+        "tonalProfile":  "Puente con pegada crujiente para solos y riffs cargados; posiciones 4 y 5 ultra limpias para funk, pop y arpegios cristalinos.",
+        "context":  "El estándar moderno de músicos de sesión y grabación. Combina el ataque de un humbucker para rock pesado con la campana clásica para rítmicas.",
+        "category":  "Híbrido HSS",
+        "dspRecommendations":  "Excelente para rigs versátiles multicanal en la M-VAVE que cubren desde balada hasta metal."
+    },
+    {
+        "body":  "Fresno pesado de los pantanos (Swamp Ash) con selletas de latón dobles",
+        "name":  "Fender Telecaster \u002752 \u0027Blackguard\u0027 (Keith Richards / Roy Buchanan)",
+        "pickups":  "2 Single-Coil Telecaster (puente con placa base de cobre/acero dulce)",
+        "tonalProfile":  "Ataque percusivo demoledor con mordida metálica en agudos en la pastilla del puente; pastilla de mástil cálida, oscura y aterciopelada.",
+        "context":  "El primer diseño de guitarra eléctrica de cuerpo sólido de producción masiva. El sonido \u0027twang\u0027 que construyó el country y el rock.",
+        "category":  "Single Coil Twang",
+        "dspRecommendations":  "Compresor de ataque rápido estilo Dynacomp, slapback delay (110-130ms), ampli Fender Tweed Bassman o Deluxe."
+    },
+    {
+        "body":  "Fresno con acabado Butterscotch Blonde desgastado, afinada en Open G sin 6ta cuerda",
+        "name":  "Fender Telecaster \u002753 \u0027Micawber\u0027 (Keith Richards - The Rolling Stones)",
+        "pickups":  "Gibson PAF Humbucker en mástil (invertido) + Pastilla de Lap Steel \u002748 en puente",
+        "tonalProfile":  "Rítmica indestructible: el puente ruge con la agresividad de un lap steel de los 40, mientras el humbucker del mástil aporta cuerpo ahumado.",
+        "context":  "La voz de los himnos de The Rolling Stones: \u0027Brown Sugar\u0027, \u0027Honky Tonk Women\u0027, \u0027Start Me Up\u0027. 5 cuerdas (G-D-G-B-D).",
+        "category":  "Open G Rock Legend",
+        "dspRecommendations":  "Ampli Fender Twin o Tweed con volumen alto, saturación crujiente de previo sin llegar a distorsión pesada, tono seco y directo."
+    },
+    {
+        "body":  "Cuerpo semi-hueco con \u0027F-hole\u0027 tallado en fresno o aliso",
+        "name":  "Fender Telecaster Thinline / Custom \u002772 (Keith Richards / Radiohead)",
+        "pickups":  "2 Wide Range Humbuckers con imanes de CuNiFe (diseño Seth Lover)",
+        "tonalProfile":  "Resonancia semi-acústica aireada; las pastillas Wide Range tienen un espectro de agudos mucho más brillante y claro que un humbucker estándar.",
+        "context":  "La respuesta de Fender a Gibson en los 70. La favorita de Jonny Greenwood (Radiohead en \u0027OK Computer\u0027) y Tab Benoit en blues.",
+        "category":  "Semi-Hollow / Wide Range",
+        "dspRecommendations":  "Ampli Vox AC30 o Fender Twin, overdrive abierto y orgánico con excelente definición de acordes complejos."
+    },
+    {
+        "body":  "Fresno con binding blanco perimetral, afinada en afinación abierta menor con cejilla",
+        "name":  "Fender Telecaster Custom (Albert Collins - \u0027The Master of the Telecaster\u0027)",
+        "pickups":  "Gibson Humbucker en mástil + Tele Single-Coil en puente",
+        "tonalProfile":  "Agudos híper-afilados y cortantes (\u0027ice pick\u0027) con pegada inmediata y ataque de dedo que saca chispas del amplificador.",
+        "context":  "El \u0027Iceman\u0027 del blues de Texas. Tocaba exclusivamente con los dedos sin púa, logrando un chasquido que rompía cualquier barrera de sonido.",
+        "category":  "Ice-Pick Blues",
+        "dspRecommendations":  "Fender Twin Reverb al máximo de brillo, reverb Spring mojada, amplificador limpio con agudos muy desinhibidos."
+    },
+    {
+        "body":  "Arce flameado con veta central de nogal y golpeador tortoiseshell",
+        "name":  "Hohner Prinz / The MadCat Telecaster (Prince - \u0027Purple Rain\u0027)",
+        "pickups":  "2 Pastillas Single-Coil tipo Stratocaster bobinadas sobre base Tele",
+        "tonalProfile":  "El chasquido funk definitivo: ataque cortante y percusivo para rítmicas muteadas, pero capaz de rugir con distorsión furiosa en solos.",
+        "context":  "La guitarra inseparable de Prince. Con ella grabó y tocó en directo \u0027Purple Rain\u0027, \u0027Kiss\u0027, \u0027Let\u0027s Go Crazy\u0027 y el solo histórico de \u0027While My Guitar Gently Weeps\u0027.",
+        "category":  "Funk \u0026 Rock Icon",
+        "dspRecommendations":  "Compresor marcado para funk rítmico, pedal Boss DS-1 o overdrive brillante para solos, modulación Flanger sutil."
+    },
+    {
+        "body":  "Aliso con recubrimiento de papel floral paisley y laca nitrocelulosa",
+        "name":  "Fender Telecaster \u002768 Paisley Pink (James Burton / Brad Paisley)",
+        "pickups":  "Single-Coils bobinado vintage con imanes escalonados",
+        "tonalProfile":  "Snap percusivo insuperable, dinámica de cuerdas estiradas y respuesta ultra elástica para técnicas híbridas de púa y dedos.",
+        "context":  "Pionera en las manos de James Burton con Elvis Presley y llevada al límite del virtuosismo chicken-pickin\u0027 moderno por Brad Paisley.",
+        "category":  "Country Virtuoso Twang",
+        "dspRecommendations":  "Slapback echo, amplificador estilo Dr. Z o Fender Deluxe al borde del breakup, presencia definida."
+    },
+    {
+        "body":  "Fresno pesado acabado en rojo carmesí brillante",
+        "name":  "Fender Telecaster \u0027Muddy Waters\u0027 \u002758 (Muddy Waters)",
+        "pickups":  "2 Single-Coil de Alnico V con potenciómetros de amplificador \u0027amp knobs\u0027",
+        "tonalProfile":  "Graves profundos y retumbantes en mástil, y mordisco crujiente en puente ideal para slide con tubo de metal en afinación abierta.",
+        "context":  "El patriarca del blues eléctrico de Chicago (\u0027Mannish Boy\u0027, \u0027Hoochie Coochie Man\u0027). La transición acústica-eléctrica que parió el rock.",
+        "category":  "Chicago Blues Primitive",
+        "dspRecommendations":  "Ampli Tweed saturando en graves, compresión natural, reverb de placa sutil."
+    },
+    {
+        "body":  "Aliso con capas superpuestas de pintura negra y gris desgastadas al extremo",
+        "name":  "Fender Telecaster \u0027Joe Strummer\u0027 \u002766 (The Clash)",
+        "pickups":  "2 Single-Coils vintage de bobinado estándar",
+        "tonalProfile":  "Tono directo, sin adornos, rítmico, áspero y cortante para acordes rasgados a gran velocidad y contratiempos de reggae punk.",
+        "context":  "El estandarte del punk británico (\u0027London Calling\u0027, \u0027White Riot\u0027). Tocada con la fuerza visceral del brazo derecho de Joe Strummer.",
+        "category":  "Punk Rock Rebel",
+        "dspRecommendations":  "Ampli Music Man HD o Marshall JCM800 limpio-crujiente sin pedales."
+    },
+    {
+        "body":  "Aliso acabado en Faded Ice Blue Metallic",
+        "name":  "Fender Telecaster \u0027Chrissie Hynde\u0027 \u002765 (The Pretenders)",
+        "pickups":  "Fender Vintage \u002765 Single-Coils con golpeador cromado espejado",
+        "tonalProfile":  "Rítmicas limpias y crujientes con agudos metálicos que destacan en la mezcla sin ensuciar la voz.",
+        "context":  "La fuerza rítmica de The Pretenders (\u0027Brass in Pocket\u0027, \u0027Back on the Chain Gang\u0027). El puente perfecto entre el punk y el pop melódico.",
+        "category":  "New Wave Post-Punk",
+        "dspRecommendations":  "Chorus analógico sutil, amplificador Fender Twin Reverb con agudos presentes."
+    },
+    {
+        "body":  "Aliso acabado en blanco perla total con herrajes rojos/cromados",
+        "name":  "Fender Telecaster \u0027John 5\u0027 Ghost / J5 Triple Tele (John 5 - Mötley Crüe)",
+        "pickups":  "Dimarzio D Activator Humbuckers de altísima salida + Killswitch arcade",
+        "tonalProfile":  "Ataque instantáneo, claridad milimétrica en arpegios rápidos y potencia brutal bajo distorsiones extremas.",
+        "context":  "El virtuoso que combina country chicken-pickin\u0027 ultrasónico con metal industrial en Marilyn Manson, Rob Zombie y Mötley Crüe.",
+        "category":  "Industrial Country Shred",
+        "dspRecommendations":  "Ampli High Gain de alta definición con noise gate y delay sincronizado."
+    },
+    {
+        "body":  "Fresno con acabado pintado a mano con diseño psicodélico de Dragón oriental",
+        "name":  "Fender Telecaster \u0027Jimmy Page\u0027 Dragon / Mirror \u002759 (Led Zeppelin I)",
+        "pickups":  "2 Single-Coil \u002759 originales con imanes Alnico V",
+        "tonalProfile":  "Potencia que engaña: suena tan pesada como un humbucker pero con la articulación, mordisco y corte limpio de una Telecaster.",
+        "context":  "La guitarra con la que Jimmy Page grabó todo el primer disco de Led Zeppelin (\u0027Good Times Bad Times\u0027, \u0027Dazed and Confused\u0027) y el solo de \u0027Stairway to Heaven\u0027.",
+        "category":  "Psychedelic Hard Rock",
+        "dspRecommendations":  "Sola Sound Tone Bender MkII fuzz virtual en bloque FX antes de un ampli Supro o Marshall."
+    },
+    {
+        "body":  "Cuerpo ultra delgado y liviano de caoba sólida con cuernos afilados biselados",
+        "name":  "Gibson SG Standard \u002761 (Angus Young / Tony Iommi)",
+        "pickups":  "2 Humbuckers \u002757 Classic / 490R-498T",
+        "tonalProfile":  "Ataque frontal instantáneo, medios-altos punzantes y agresivos que sobresalen en la mezcla, sin los graves retumbantes de la Les Paul.",
+        "context":  "El motor rítmico y solista de AC/DC (\u0027Back in Black\u0027, \u0027Highway to Hell\u0027) y la piedra angular del heavy metal primitivo con Black Sabbath.",
+        "category":  "Solidbody Double-Cut",
+        "dspRecommendations":  "Marshall JCM800 o Plexi 1959 crujiente, perilla de medios al 70%, ganancia de preamp justa para no perder dinámica de ataque."
+    },
+    {
+        "body":  "Caoba sólida delgada con unión de mástil en el traste 22",
+        "name":  "Gibson SG Special con P-90s (Pete Townshend - The Who)",
+        "pickups":  "2 Pastillas P-90 Soapbar con selector de 3 vías",
+        "tonalProfile":  "Gruñido gutural de frecuencias medias, respuesta electrizante al rasgueo furioso y saturación orgánica que nunca se empasta.",
+        "context":  "La guitarra destructora de \u0027Live at Leeds\u0027 y \u0027Woodstock\u0027. La definición del power chord y la agresividad del proto-punk británico.",
+        "category":  "Raw Rock P-90",
+        "dspRecommendations":  "Ampli Hiwatt o Marshall con volumen al máximo, saturación de salida, sin pedales intermediarios."
+    },
+    {
+        "body":  "Caoba maciza con pegatina de mono y mástil barnizado en poliuretano",
+        "name":  "Gibson SG \u0027Tony Iommi\u0027 \u0027Monkey\u0027 \u002765 Special (Black Sabbath)",
+        "pickups":  "Custom Single-Coils de alta salida John Birch / Simm-Watts",
+        "tonalProfile":  "Medios oscuros, graves cavernosos y un fuzz orgánico denso que definió el stoner rock y doom metal.",
+        "context":  "El origen del Heavy Metal. Usada en \u0027Paranoid\u0027, \u0027Iron Man\u0027 y \u0027Master of Reality\u0027. Calibrada con cuerdas ultra ligeras y afinaciones caídas (C#).",
+        "category":  "Doom Metal Origin",
+        "dspRecommendations":  "Dallas Rangemaster Treble Booster empujando ampli Laney Supergroup al límite."
+    },
+    {
+        "body":  "Caoba con acabado Cherry brillante y puente fijo Stopbar",
+        "name":  "Gibson SG \u0027Derek Trucks\u0027 \u002761 Reissue (Tedeschi Trucks / Allman)",
+        "pickups":  "2 Humbuckers \u002757 Classic con placa de cordal Lyre grabada",
+        "tonalProfile":  "Tono vocal líquido incomparable: agudos sedosos que imitan a una cantante de soul y sustain amaderado perfecto.",
+        "context":  "El mayor maestro de slide contemporáneo. Toca exclusivamente sin púa ni pedales de efectos, directo al amplificador.",
+        "category":  "Vocal Slide Master",
+        "dspRecommendations":  "Ampli Super Reverb crujiente a válvulas, cero pedales, ecualización plana con graves contenidos."
+    },
+    {
+        "body":  "Caoba con mástil delgado de los 60",
+        "name":  "Gibson SG \u0027Robby Krieger\u0027 \u002767 (The Doors)",
+        "pickups":  "2 Humbuckers vintage de baja salida",
+        "tonalProfile":  "Chasquido amaderado percusivo en medios, agudos definidos y calidez tímbrica única en arpegios psicodélicos.",
+        "context":  "La guitarra de \u0027Light My Fire\u0027, \u0027Riders on the Storm\u0027 y \u0027Break on Through\u0027. Ejecutada con técnica de guitarra clásica y flamenco sin púa.",
+        "category":  "Psychedelic Fingerstyle",
+        "dspRecommendations":  "Ampli Fender Twin Reverb o Acoustic 260 con saturación sutil de válvulas."
+    },
+    {
+        "body":  "Caoba con múltiples conmutadores minitoggle integrados",
+        "name":  "Gibson SG \u0027Frank Zappa\u0027 \u0027Roxy\u0027 \u002760s Custom (Frank Zappa)",
+        "pickups":  "2 Humbuckers con preamplificador activo a bordo y conmutadores de fase",
+        "tonalProfile":  "Medios nasales extremos, armónicos artificiales que cantan al menor contacto y distorsión quirúrgica.",
+        "context":  "Usada en los históricos conciertos de \u0027Roxy \u0026 Elsewhere\u0027. Capaz de producir cualquier combinación de fuera de fase y frecuencias paramétricas.",
+        "category":  "Avant-Garde Modified",
+        "dspRecommendations":  "Overdrive paramétrico con realce en 1.8 kHz y delay estéreo sincronizado."
+    },
+    {
+        "body":  "Madera de Korina (1958) o Caoba selecta (1967) en forma de flecha simétrica",
+        "name":  "Gibson Flying V \u002758 / \u002767 (Albert King / Jimi Hendrix / Schenker)",
+        "pickups":  "2 Humbuckers PAF / 496R-500T cerámicos",
+        "tonalProfile":  "Tono muy enfocado y proyectado hacia adelante: el diseño de flecha elimina cancelaciones acústicas, entregando medios cantores y graves limpios.",
+        "context":  "Nacida adelantada a su tiempo. Utilizada por Albert King en afinaciones graves (\u0027Born Under a Bad Sign\u0027), Jimi Hendrix en Isle of Wight y Michael Schenker.",
+        "category":  "Futuristic Vintage V",
+        "dspRecommendations":  "Ampli de alta ganancia o crunch británico clásico, ecualización balanceada, delay de solo de 380ms."
+    },
+    {
+        "body":  "Caoba acabada en dos tonos divididos blanco y negro",
+        "name":  "Gibson Flying V \u0027Michael Schenker\u0027 / \u0027Grace Potter\u0027 (Scorpions / UFO)",
+        "pickups":  "Humbuckers Gibson 496R/500T de salida extrema",
+        "tonalProfile":  "Sustain punzante infinito, armónicos que explotan en legato veloz y claridad en agudos sin sonar fino.",
+        "context":  "El sonido solista del hard rock europeo de UFO (\u0027Lights Out\u0027, \u0027Doctor Doctor\u0027) y Michael Schenker Group.",
+        "category":  "Hard Rock Lead",
+        "dspRecommendations":  "Marshall JCM800 empujado por pedal wah en posición semi-abierta, delay de solo de 400ms."
+    },
+    {
+        "body":  "Madera maciza de Korina con barra de acero transversal y trémolo Bigsby",
+        "name":  "Gibson Flying V \u0027Lonnie Mack\u0027 \u002758 (Lonnie Mack / SRV)",
+        "pickups":  "2 Humbuckers PAF originales de Korina",
+        "tonalProfile":  "Tono gordo, campaneante y vibrante; el trémolo Bigsby en Korina entrega un aleteo y grosor sonoro imponente.",
+        "context":  "El pionero del virtuosismo en guitarra eléctrica (\u0027Wham!\u0027). La principal inspiración técnica de Stevie Ray Vaughan.",
+        "category":  "Roots Blues-Rock Vibrato",
+        "dspRecommendations":  "Ampli Magnatone con vibrato de tono o Fender Bassman Tweed al 6."
+    },
+    {
+        "body":  "Enorme masa de caoba sólida en diseño angular futurista",
+        "name":  "Gibson Explorer \u002758 / \u002776 (The Edge - U2 / James Hetfield)",
+        "pickups":  "2 Humbuckers PAF o Gibson 496R/500T cerámicos de alta salida",
+        "tonalProfile":  "Masividad acústica: sustain monumental, graves profundos pero controlados y un \u0027thump\u0027 percusivo en palm-muting que pocas guitarras igualan.",
+        "context":  "La guitarra de The Edge en los primeros cuatro discos de U2 (\u0027I Will Follow\u0027, \u0027Sunday Bloody Sunday\u0027) y la legendaria \u0027EET FUK\u0027 de James Hetfield en Master of Puppets.",
+        "category":  "Heavy Resonance",
+        "dspRecommendations":  "Delays modulados sincronizados a tresillos (The Edge) o ampli High Gain apretado con puerta de ruido (Metallica)."
+    },
+    {
+        "body":  "Madera de Korina original de 1958",
+        "name":  "Gibson Explorer \u0027Allen Collins\u0027 \u002758 (Lynyrd Skynyrd)",
+        "pickups":  "2 Humbuckers PAF originales con cordal maestro vibrato modificado",
+        "tonalProfile":  "Ataque cortante y sostenido que escala dinámicamente con cada compás sin perder cuerpo armónico.",
+        "context":  "La protagonista indiscutible del solo más largo y aclamado del Southern Rock: el final épico de \u0027Free Bird\u0027.",
+        "category":  "Southern Epic Lead",
+        "dspRecommendations":  "Marshall Super Lead 100W con volumen a 8, ecualización con presencia en 60%."
+    },
+    {
+        "body":  "Caoba maciza acabada en blanco Alpine White con golpeador dorado",
+        "name":  "Gibson Explorer \u0027Lzzy Hale\u0027 Signature (Halestorm)",
+        "pickups":  "\u002757 Classic y \u002757 Classic Plus con herrajes dorados",
+        "tonalProfile":  "Crunch moderno apretado, medios definidos para cantar encima de la mezcla y agudos nítidos.",
+        "context":  "La máquina de estadios de Lzzy Hale en Halestorm (\u0027I Miss the Misery\u0027, \u0027Love Bites\u0027).",
+        "category":  "Modern Arena Hard Rock",
+        "dspRecommendations":  "Ampli High Gain moderno con ganancia controlada, compresión rápida en rítmicas."
+    },
+    {
+        "body":  "Construcción \u0027Neck-Through\u0027 de 9 capas de caoba/nogal con alas de caoba invertidas",
+        "name":  "Gibson Firebird V (Johnny Winter / Allen Collins - Lynyrd Skynyrd)",
+        "pickups":  "2 Firebird Mini-Humbuckers con imanes de barra alnico sin polos ajustables",
+        "tonalProfile":  "Único e irrepetible: los mini-humbuckers Firebird son más brillantes y cortantes que un PAF, pero más densos y con mayor pegada que una pastilla simple.",
+        "context":  "Diseñada por el diseñador de coches Ray Dietrich. El arma slide de Johnny Winter y la guitarra de \u0027Free Bird\u0027 en directo con Lynyrd Skynyrd.",
+        "category":  "Neck-Through Mini-Humbucker",
+        "dspRecommendations":  "Overdrive estilo Tube Screamer, ampli con cuerpo medio-bajo, excelente respuesta a la técnica de slide con bottleneck de cristal."
+    },
+    {
+        "body":  "Construcción neck-through invertida en caoba",
+        "name":  "Gibson Firebird I \u0027Clapton\u0027 (Eric Clapton - Blind Faith / Cream)",
+        "pickups":  "1 Único Mini-Humbucker Firebird en posición de puente",
+        "tonalProfile":  "Cero interferencias de circuito: la pastilla directa entrega un ataque explosivo, agudos vidriosos y distorsión pura.",
+        "context":  "Tocada por Clapton en el concierto histórico de Hyde Park de 1969 con Blind Faith y en \u0027Badge\u0027.",
+        "category":  "Minimalist Mini-Humbucker",
+        "dspRecommendations":  "Marshall Plexi al borde de la saturación con volumen en la guitarra al 8 para limpiar."
+    },
+    {
+        "body":  "Caoba maciza con pala invertida y clavijeros tipo \u0027banjo\u0027",
+        "name":  "Gibson Firebird VII \u0027Dave Grohl\u0027 (Foo Fighters)",
+        "pickups":  "3 Mini-Humbuckers Alnico V con trémolo Lyre Vibrola",
+        "tonalProfile":  "Mayor amplitud de frecuencias que una guitarra estándar, con medios elásticos y gran resistencia al acople indeseado.",
+        "context":  "Frecuente en las giras mundiales de Foo Fighters para rítmicas masivas y dinámicas alternativas.",
+        "category":  "Alternative Wall of Power",
+        "dspRecommendations":  "Ampli Vox AC30 combinado con Mesa Boogie Dual Rectifier para sonido grunge/power-pop."
+    },
+    {
+        "body":  "Caoba maciza masiva con dos mástiles paralelos",
+        "name":  "Gibson EDS-1275 Double Neck \u002768 (Jimmy Page / Don Felder)",
+        "pickups":  "4 Humbuckers PAF (2 para mástil de 12 cuerdas, 2 para mástil de 6 cuerdas)",
+        "tonalProfile":  "Mástil de 12 cuerdas con un brillo orquestal majestuoso; mástil de 6 cuerdas con la pegada clásica de una Gibson SG para solos ardientes.",
+        "context":  "El icono absoluto de los directos de rock: \u0027Stairway to Heaven\u0027 (Page) y \u0027Hotel California\u0027 (Don Felder en The Eagles).",
+        "category":  "Double-Neck Legend",
+        "dspRecommendations":  "Reverb de placas amplia, chorus estéreo en el canal de 12 cuerdas, overdrive británico en el de 6."
+    },
+    {
+        "body":  "Arce laminado con bloque central sólido de arce y abeto",
+        "name":  "Gibson ES-335 Dot (B.B. King / Larry Carlton / Eric Clapton Cream)",
+        "pickups":  "2 Humbuckers PAF / \u002757 Classic",
+        "tonalProfile":  "Tono que respira y florece: agudos dulces, medios amaderados vocales y graves aterciopelados con una respuesta al tacto insuperable.",
+        "context":  "La \u0027Reina de las Semihollow\u0027. Nacida en 1958 para unir la calidez del jazz con la resistencia al acople del rock. La base de B.B. King (\u0027Lucille\u0027) y Larry Carlton.",
+        "category":  "Semi-Hollowbody",
+        "dspRecommendations":  "Overdrive transparente estilo Dumble o Klon, amplificador Fender Twin o Deluxe al borde de quiebre, reverb Plate cálida."
+    },
+    {
+        "body":  "Cuerpo semi-hueco sin aberturas en \u0027F\u0027 para eliminar acoples a altos volúmenes",
+        "name":  "Gibson \u0027Lucille\u0027 / ES-355 (B.B. King)",
+        "pickups":  "2 Humbuckers 490R / 490T con selector rotativo Varitone de 6 posiciones",
+        "tonalProfile":  "El circuito Varitone filtra frecuencias específicas produciendo desde tonos nasales ahuecados hasta graves aterciopelados de blues puro.",
+        "context":  "Inseparable de B.B. King (\u0027The Thrill Is Gone\u0027). Con ella desarrolló el vibrato con dedo índice más imitado de la historia.",
+        "category":  "Blues Royalty",
+        "dspRecommendations":  "Ampli Fender Twin Reverb o Lab Series L5 a transistores, agudos al 7, cero distorsión pesada."
+    },
+    {
+        "body":  "Arce laminado con inlays de paralelogramo dividido y Varitone",
+        "name":  "Gibson ES-345 Stereo (Freddie King / Chuck Berry)",
+        "pickups":  "2 Humbuckers PAF con cableado estéreo independiente",
+        "tonalProfile":  "Ataque percusivo enérgico, sustain balanceado y medios cálidos con enorme dinamismo para acompañamiento rítmico.",
+        "context":  "El arma de Freddie King (\u0027Hide Away\u0027) y Chuck Berry. La base del sonido blues eléctrico de Texas y Chicago.",
+        "category":  "Stereo Blues \u0026 Rock",
+        "dspRecommendations":  "Ampli Fender Super Reverb crujiente con saturación natural al atacar fuerte."
+    },
+    {
+        "body":  "Arce laminado con aberturas en diamante y pala invertida Firebird",
+        "name":  "Gibson DG-335 / Trini Lopez (Dave Grohl - Foo Fighters)",
+        "pickups":  "Burstbucker 1 en mástil + Burstbucker 2 en puente",
+        "tonalProfile":  "Resonancia acústica mezclada con ganancia extrema: produce acoples melódicos controlados y acordes masivos que llenan estadios.",
+        "context":  "La firma de Dave Grohl en Foo Fighters (\u0027Everlong\u0027, \u0027The Pretender\u0027, \u0027All My Life\u0027).",
+        "category":  "Post-Grunge Semi-Hollow",
+        "dspRecommendations":  "Mesa Boogie Dual Rectifier + Vox AC30 simultáneos, puerta de ruido moderada."
+    },
+    {
+        "body":  "Completamente hueca (Full Hollow) de arce laminado, sin bloque central sólido",
+        "name":  "Epiphone Casino (The Beatles: John Lennon, George Harrison, Paul McCartney)",
+        "pickups":  "2 Pastillas P-90 Dogear originales",
+        "tonalProfile":  "Crujiente, orgánica, ligera y resonante como una acústica amplificada. Entra en acople armónico musical controlado a volúmenes elevados (\u0027Revolution\u0027).",
+        "context":  "El instrumento vertebral de The Beatles desde 1965: grabaron con ella \u0027Taxman\u0027, \u0027Sgt. Pepper\u0027, \u0027The White Album\u0027 y el mítico concierto en la azotea (Get Back).",
+        "category":  "Full Hollowbody P-90",
+        "dspRecommendations":  "Ampli Vox AC30 (preset UK 30), ecualización con agudos brillantes, saturación moderada que deje oir el aire de la caja."
+    },
+    {
+        "body":  "Arce laminado con bloque central sólido de arce",
+        "name":  "Epiphone Sheraton II (John Lee Hooker / Noel Gallagher - Oasis)",
+        "pickups":  "2 Humbuckers Alnico Classic Pro con inlays en madreperla y abalone",
+        "tonalProfile":  "Graves majestuosos, sustain prolongado y compresión dulce perfecta para arpegios de britpop y rasgueos de blues.",
+        "context":  "La guitarra del \u0027Boogie\u0027 de John Lee Hooker y de los himnos de Oasis en \u0027Definitely Maybe\u0027 y \u0027Morning Glory\u0027.",
+        "category":  "Britpop \u0026 Delta Blues",
+        "dspRecommendations":  "Marshall JCM900 crujiente con boost de medios y reverb de muelles."
+    },
+    {
+        "body":  "Semi-hueca con cordal dividido Frequensator para diferente tensión de cuerdas",
+        "name":  "Epiphone Riviera \u002765 con Frequensator (Nick Valensi - The Strokes)",
+        "pickups":  "Pastillas Gibson P-94 (P-90 en tamaño de humbucker)",
+        "tonalProfile":  "Ataque rítmico afilado, precisión de corte y medios secos y ajustados que permiten entrelazar dos guitarras limpias sin estorbarse.",
+        "context":  "La base del renacimiento del garage rock neoyorquino en \u0027Is This It\u0027 y \u0027Room on Fire\u0027 con The Strokes.",
+        "category":  "Garage Rock Revival",
+        "dspRecommendations":  "Ampli Fender Hot Rod DeVille con pedal Jekyll \u0026 Hyde (overdrive suave)."
+    },
+    {
+        "body":  "Caja ancha profunda de arce laminado o abeto macizo tallado con cordal trapezoidal",
+        "name":  "Gibson ES-175 / L-5 CES (Joe Pass / Wes Montgomery / Pat Metheny)",
+        "pickups":  "1 o 2 Humbuckers \u002757 Classic montados sobre tapa flotante",
+        "tonalProfile":  "Tono oscuro, redondo, amaderado y profundo con tono bajado al 5; ausencia total de asperezas agudas, nota fundamental con gran cuerpo y articulación pura.",
+        "context":  "El patrón de oro del Jazz tradicional en Nueva York. La voz melódica con pulgar de Wes Montgomery y el bebop virtuoso de Joe Pass.",
+        "category":  "Archtop Jazz Pure",
+        "dspRecommendations":  "Ampli a transistores ultra limpio (Polytone / Roland JC) o valvular limpio oscuro, cero distorsión, compresor ligero y reverb sutil de sala."
+    },
+    {
+        "body":  "Caja hueca de arce con barra de tono de caballete y vibrato Bigsby B6",
+        "name":  "Gretsch G6120 / Nashville (Brian Setzer / Chet Atkins)",
+        "pickups":  "2 Humbuckers Filter\u0027Tron con imanes Alnico",
+        "tonalProfile":  "\u0027Twang and Growl\u0027: graves elásticos y prietos, medios con un gruñido característico y agudos brillantes sin zumbido de fondo.",
+        "context":  "La reina del Rockabilly, Fingerstyle country y Rock and Roll de los 50. Inseparable de Chet Atkins, Duane Eddy y Brian Setzer Orchestra.",
+        "category":  "Hollowbody Filter\u0027Tron",
+        "dspRecommendations":  "Slapback delay analógico (120ms con 1 repetición), reverb Spring profunda y amplificador Fender Bassman estilo Tweed."
+    },
+    {
+        "body":  "Caoba con cámaras acústicas internas profundas y tapa sólida de arce negro",
+        "name":  "Gretsch Duo Jet (George Harrison Early Beatles / Cliff Gallup)",
+        "pickups":  "2 Pastillas DeArmond / Dynasonic Single-Coil de gran imán",
+        "tonalProfile":  "Ataque percusivo explosivo y chispeante de bobina simple gruesa, pero con el cuerpo cálido y la respuesta acústica de una cámara resonante.",
+        "context":  "La primera gran guitarra profesional de George Harrison en Hamburgo y Cavern Club. El tono del rockabilly primitivo de Cliff Gallup con Gene Vincent.",
+        "category":  "Chambered Single-Coil",
+        "dspRecommendations":  "Previo al límite de saturación valvular, compresor suave, eco de cinta sutil."
+    },
+    {
+        "body":  "Caoba con cámaras acústicas internas, acabado despojado a madera natural",
+        "name":  "Gretsch G6131T Jet Firebird \u0027The Beast\u0027 (Malcolm Young - AC/DC)",
+        "pickups":  "1 Sola pastilla Filter\u0027Tron de puente (pastillas de mástil y centro retiradas)",
+        "tonalProfile":  "Cero interferencias: una resonancia seca, percusiva y atronadora que golpea con la precisión de un redoblante y la fuerza de un cañón.",
+        "context":  "El mejor sonido de guitarra rítmica de la historia del rock. Malcolm Young en \u0027Highway to Hell\u0027, \u0027Back in Black\u0027 y \u0027Thunderstruck\u0027.",
+        "category":  "Pure Rhythm Machine",
+        "dspRecommendations":  "Marshall Super Bass o JTM45 sin pedales, ganancia limpia-crujiente, presencia en 70%."
+    },
+    {
+        "body":  "Enorme cuerpo hueco de 17 pulgadas con acabado blanco nieve y oropel dorado",
+        "name":  "Gretsch White Falcon (Neil Young / Frusciante en Californication)",
+        "pickups":  "2 Pastillas Filter\u0027Tron / High Sensitive",
+        "tonalProfile":  "Tono majestuoso, panorámico, abierto y sedoso; llena frecuencias de 80Hz a 12kHz con un aire y belleza acústica sin igual.",
+        "context":  "La guitarra más fastuosa de la historia. Inmortalizada en las rítmicas acústicas-eléctricas de Neil Young y en el tono de \u0027Otherside\u0027 y \u0027Californication\u0027.",
+        "category":  "Hollowbody Deluxe",
+        "dspRecommendations":  "Reverb Plate de estudio generosa, compresor de estudio transparente, overdrive sutil de baja ganancia."
+    },
+    {
+        "body":  "Caja ancha de nogal oscuro con palanca de sordinas mecánicas dobles",
+        "name":  "Gretsch Chet Atkins Country Gentleman (George Harrison / Chet Atkins)",
+        "pickups":  "2 Filter\u0027Tron Dual Coil con aberturas F simuladas pintadas para evitar acople",
+        "tonalProfile":  "Brillo acampanado sin asperezas, graves controlados y una resonancia elegante para arpegios limpios de acordes abiertos.",
+        "context":  "La guitarra de George Harrison en la conquista de Estados Unidos en 1964: \u0027A Hard Day\u0027s Night\u0027, \u0027I Want to Hold Your Hand\u0027 y \u0027She Loves You\u0027.",
+        "category":  "Beatle Chime Hollow",
+        "dspRecommendations":  "Ampli Vox AC30 con Top Boost, eco corto y compresión suave."
+    },
+    {
+        "body":  "Arce semi-acústico con bordes redondeados y pala patentada para 12 cuerdas",
+        "name":  "Rickenbacker 360/12 (The Beatles / The Byrds / Tom Petty)",
+        "pickups":  "2 Single-Coil \u0027Toaster Top\u0027 vintage de baja impedancia",
+        "tonalProfile":  "Tintineo de campanas doradas: la duplicación de octavas brillantes combinada con las pastillas Toaster produce una lluvia de armónicos inconfundible.",
+        "context":  "El sonido \u0027jangle\u0027 que definió la invasión británica y el folk-rock de los 60: \u0027A Hard Day\u0027s Night\u0027, \u0027Ticket to Ride\u0027 y \u0027Mr. Tambourine Man\u0027.",
+        "category":  "12-String Electric",
+        "dspRecommendations":  "Compresor de estudio agresivo (emulando pedal JangleBox), amplificador limpio brillante con agudos libres y cero saturación."
+    },
+    {
+        "body":  "Cuerpo compacto semi-hueco con escala corta de 20.75 pulgadas y vibrato Kauffman/Ac\u0027cent",
+        "name":  "Rickenbacker 325 (John Lennon - 1964 Ed Sullivan)",
+        "pickups":  "3 Pastillas Single-Coil Vintage Toaster",
+        "tonalProfile":  "Ataque rítmico instantáneo y seco: cuerdas con menor tensión que permiten acordes rápidos y rítmicas de rock and roll percusivas y vivaces.",
+        "context":  "La guitarra con la que John Lennon revolucionó la música en el Show de Ed Sullivan en febrero de 1964 ante 73 millones de espectadores.",
+        "category":  "Short Scale Rhythm",
+        "dspRecommendations":  "Ampli Vox AC30 limpio con medios claros, slapback de cinta y ausencia de graves retumbantes."
+    },
+    {
+        "body":  "Arce con corte de herradura \u0027Slash soundhole\u0027 y bordes afilados",
+        "name":  "Rickenbacker 330 (Pete Townshend / Paul Weller - The Jam)",
+        "pickups":  "2 Hi-Gain Single-Coils Rickenbacker",
+        "tonalProfile":  "Agresividad brillante de campana con medios afilados para cortar a través del bajo y la batería en canciones de ritmo vertiginoso.",
+        "context":  "La voz del movimiento mod británico: The Who en los 60 y Paul Weller en The Jam (\u0027Town Called Malice\u0027, \u0027That\u0027s Entertainment\u0027).",
+        "category":  "Mod Revival Jangle",
+        "dspRecommendations":  "Ampli británico crujiente con agudos abiertos y compresión tenue."
+    },
+    {
+        "body":  "Semi-hueca con tapa de abeto laminado, fondo de arce flameado y trémolo Deluxe",
+        "name":  "Duesenberg Starplayer TV (The Killers / John Mayer / Chris Cornell)",
+        "pickups":  "Pastilla Domino P-90 en mástil + GrandVintage Humbucker en puente",
+        "tonalProfile":  "El matrimonio sonoro perfecto: la calidez orgánica y vocal del P-90 en mástil con el crunch directo, apretado y rockero del humbucker en puente.",
+        "context":  "La joya de la luthería alemana moderna. La guitarra preferida en giras de estadio por Chris Cornell, The Killers, Keith Urban y Mike Campbell.",
+        "category":  "Modern Vintage Semi-Hollow",
+        "dspRecommendations":  "Overdrive transparente y dinámico, delay analógico con repeticiones rítmicas, excelente para pop-rock y britpop de estadio."
+    },
+    {
+        "body":  "Cuerpo asimétrico ergonómico con circuito independiente Lead / Rhythm y trémolo flotante",
+        "name":  "Fender Jazzmaster (Sonic Youth / The Cure / Surf Rock / J Mascis)",
+        "pickups":  "2 Single-Coils de bobina ancha y plana (estilo \u0027Soapbar\u0027)",
+        "tonalProfile":  "Circuito Lead afilado y percusivo con frecuencias agudas cristalinas; circuito Rhythm oscuro, profundo y sedoso perfecto para fuzz.",
+        "context":  "Del surf instrumental de The Ventures al shoegaze de My Bloody Valentine, The Cure y el rock ruidoso de Dinosaur Jr. y Sonic Youth.",
+        "category":  "Offset Single Coil",
+        "dspRecommendations":  "Fuzz clásico tipo Big Muff o Fuzz Face en el bloque FX, trémolo modulado, reverb Hall profunda y amplia."
+    },
+    {
+        "body":  "Escala corta de 24 pulgadas con placa cromada de selectores de corte de graves (\u0027Strangle switch\u0027)",
+        "name":  "Fender Jaguar (Kurt Cobain / Johnny Marr - The Smiths)",
+        "pickups":  "2 Single-Coils con jaula metálica dentada para supresión de ruido (o DiMarzio humbuckers en versión Cobain)",
+        "tonalProfile":  "Ataque quirúrgico y percusivo; el interruptor de corte de graves permite que las notas se destaquen con nitidez absoluta a través de pedales de distorsión.",
+        "context":  "La guitarra de Johnny Marr en The Smiths y de Kurt Cobain durante la consagración de Nirvana (\u0027Nevermind\u0027).",
+        "category":  "Offset Short Scale",
+        "dspRecommendations":  "Pedal de Chorus espeso (estilo Small Clone), distorsión agresiva tipo Boss DS-1 o ProCo Rat, reverb de muelles."
+    },
+    {
+        "body":  "Cuerpo compacto y liviano de aliso/álamo con vibrato Dynamic Mustang",
+        "name":  "Fender Mustang (Kurt Cobain - \u0027Smells Like Teen Spirit\u0027 \u0026 \u0027In Utero\u0027)",
+        "pickups":  "2 Pastillas Single-Coil inclinadas con interruptores de desfase independiente",
+        "tonalProfile":  "Tono rebelde, indomable y lo-fi. Al invertir la fase de las pastillas produce un timbre hueco, nasal y corrosivo ideal para punk y grunge.",
+        "context":  "La guitarra fetiche de Kurt Cobain. Usada en el videoclip de \u0027Smells Like Teen Spirit\u0027 y la gira mundial de \u0027In Utero\u0027 (Lake Placid Blue y Fiesta Red).",
+        "category":  "Short Scale Grunge",
+        "dspRecommendations":  "Distorsión pesada tipo Boss DS-2 (Turbo mode) o Electro-Harmonix PolyChorus, amplificador británico saturado."
+    },
+    {
+        "body":  "Aliso Sonic Blue con golpeador rojo carey",
+        "name":  "Fender Mustang \u0027Kurt Cobain\u0027 \u0027Skystang I\u0027 (Nirvana - Live and Loud)",
+        "pickups":  "Seymour Duncan JB Humbucker inclinado en puente + Mustang single en mástil",
+        "tonalProfile":  "Riffs brutales y crujientes en la pastilla del puente combinados con el limpio oscuro y hueco de mástil.",
+        "context":  "La guitarra número 1 de la gira final de Nirvana en 1993-94 (grabada en el concierto \u0027Live and Loud\u0027 de MTV).",
+        "category":  "Grunge Weapon",
+        "dspRecommendations":  "Boss DS-2 Turbo Distortion empujando un preamplificador estilo Marshall o SansAmp."
+    },
+    {
+        "body":  "Diseño híbrido creado por Kurt Cobain dibujando mitades de Jaguar y Mustang",
+        "name":  "Fender Jag-Stang (Kurt Cobain Custom Design)",
+        "pickups":  "1 Humbucker vintage en puente + 1 Single-Coil Mustang en mástil",
+        "tonalProfile":  "Agresividad crujiente en puente para riffs demoledores con la flexibilidad rítmica acampanada en la pastilla simple del mástil.",
+        "context":  "Diseñada específicamente para Kurt por la Custom Shop de Fender en 1993 y utilizada en la etapa final de Nirvana.",
+        "category":  "Grunge Hybrid",
+        "dspRecommendations":  "Overdrive de alta ganancia, ecualización con medios recortados levemente, chorus espacial."
+    },
+    {
+        "body":  "Semi-hueca asimétrica de arce laminado con bloque central",
+        "name":  "Fender Starcaster \u002776 (Leo Nocentelli - The Meters / Jonny Greenwood)",
+        "pickups":  "2 Fender Wide Range Humbuckers con clavijero curvo único",
+        "tonalProfile":  "Tono elástico, espacioso y resonante; combina el ataque de un humbucker con el aire dulce de una caja acústica.",
+        "context":  "El funk sincopado de Nueva Orleans con The Meters y la era contemporánea de Radiohead.",
+        "category":  "Funk \u0026 Alt-Rock Semi-Hollow",
+        "dspRecommendations":  "Auto-wah o envolvente en bloque FX, compresor transparente y ampli limpio."
+    },
+    {
+        "body":  "Aliso con escala corta de 24.75 pulgadas (estilo Gibson en cuerpo Fender)",
+        "name":  "Fender Toronado (John Frusciante / Frank Iero - My Chemical Romance)",
+        "pickups":  "2 Humbuckers Fender Atomic de alta salida",
+        "tonalProfile":  "Tensión suave en cuerdas, ataque cálido y facilidad para bends amplios con gran resistencia a la distorsión pesada.",
+        "context":  "Usada por John Frusciante durante las grabaciones de \u0027Californication\u0027 y en el post-hardcore de los 2000s.",
+        "category":  "Post-Grunge Punk",
+        "dspRecommendations":  "Ampli británico saturado con delay analógico."
+    },
+    {
+        "body":  "Tilo americano (Basswood) con asa \u0027Monkey Grip\u0027 y cavidad Lion\u0027s Claw para puente flotante",
+        "name":  "Ibanez JEM / Universe (Steve Vai)",
+        "pickups":  "Configuración H-S-H DiMarzio Evolution / Gravity Storm de alta salida",
+        "tonalProfile":  "Claridad híper-quirúrgica bajo niveles descomunales de distorsión; armónicos artificiales que saltan al mínimo contacto y agudos cortantes.",
+        "context":  "Creada en 1987 por Steve Vai. La guitarra que redefinió la ejecución técnica moderna en \u0027Passion and Warfare\u0027.",
+        "category":  "Superstrat Virtuoso",
+        "dspRecommendations":  "Ampli de alta ganancia tipo Cali Dual / Soldano, Tube Screamer como boost limpio, Delay digital estéreo de 450ms."
+    },
+    {
+        "body":  "Cuerpo de tilo o caoba con mástil Wizard ultra delgado de radio casi plano",
+        "name":  "Ibanez RG Series (Modern Shred \u0026 Progressive Metal)",
+        "pickups":  "Humbuckers cerámicos de respuesta ultra rápida",
+        "tonalProfile":  "Transitorios inmediatos, graves secos y prietos ideales para palm-muting veloz y ecualización diseñada para traspasar paredes de bajo y batería.",
+        "context":  "El arma predilecta del shred de los 90 y el metal progresivo contemporáneo (Paul Gilbert, Chon, Polyphia).",
+        "category":  "Modern Shred",
+        "dspRecommendations":  "Puerta de ruido estricta en la entrada, amplificador Modern High Gain, ecualización balanceada sin exceso de graves."
+    },
+    {
+        "body":  "Caoba maciza con cuerno inferior invertido agresivo",
+        "name":  "Ibanez Iceman (Paul Stanley - KISS / System of a Down - Daron Malakian)",
+        "pickups":  "2 Humbuckers de alta salida Ibanez Super 80 / DiMarzio",
+        "tonalProfile":  "Medios graves robustos y crujientes con gran pegada frontal; ideal para afinaciones bajas (Drop C) donde mantiene la nota centrada y viva.",
+        "context":  "Icono visual y sonoro del hard rock setentero con Paul Stanley y del nu-metal frenético de System of a Down (\u0027Toxicity\u0027, \u0027Chop Suey!\u0027).",
+        "category":  "Heavy Rock Icon",
+        "dspRecommendations":  "Ampli High Gain moderno, presencia en 65%, ecualización centrada en empujar los 800-1200Hz."
+    },
+    {
+        "body":  "Caoba maciza tallada en bisel pronunciado",
+        "name":  "ESP / LTD Snakebyte \u0026 Eclipse (James Hetfield - Metallica)",
+        "pickups":  "Set activo EMG JH \u0027Het Set\u0027 (cerámico en puente, imanes individuales en mástil)",
+        "tonalProfile":  "La pegada de pastillas activas pero con la dinámica y apertura de tono pasivo; graves híper-tensos que jamás embarran el sonido con palm-mutes pesados.",
+        "context":  "La máquina rítmica moderna de James Hetfield para los directos masivos de Metallica. Creada para resistir el ataque más salvaje de púa hacia abajo.",
+        "category":  "Modern Metal Active",
+        "dspRecommendations":  "Simulador de Mesa Boogie Rectifier o Peavey 5150, corte estricto de graves antes de saturar, cabina 4x12 cerrada con conos V30."
+    },
+    {
+        "body":  "Aliso selecto con mástil de arce de perfil extra fino",
+        "name":  "ESP Eclipse / KH-2 Ouija (Kirk Hammett - Metallica)",
+        "pickups":  "EMG 81 en puente y EMG 60 en mástil con puente Floyd Rose original",
+        "tonalProfile":  "Compresión agresiva, sustain quirúrgico para solos empapados en pedal wah y precisión en armónicos pinchados.",
+        "context":  "La guitarra de solos de Kirk Hammett en el \u0027Black Album\u0027, \u0027Master of Puppets\u0027 y giras mundiales.",
+        "category":  "Thrash Metal Soloist",
+        "dspRecommendations":  "Mesa Boogie Triaxis o Mark IIC+, wah wah Dunlop Crybaby en bloque FX, delay de solo."
+    },
+    {
+        "body":  "Caoba maciza con tapa de arce y cruz de hierro incrustada",
+        "name":  "ESP LTD \u0027Iron Cross\u0027 (James Hetfield - Metallica)",
+        "pickups":  "EMG HetSet activo con conmutador superior simulado",
+        "tonalProfile":  "Masividad y rapidez en el palm-mute con claridad extrema en acordes disonantes de metal.",
+        "context":  "La guitarra de directo de Hetfield en la era contemporánea de Metallica (\u0027Hardwired... to Self-Destruct\u0027).",
+        "category":  "Heavy Riff Singlecut",
+        "dspRecommendations":  "Ampli High Gain moderno con ecualización en \u0027V\u0027 suave y filtro Low Cut en cabina."
+    },
+    {
+        "body":  "Estructura multicapa de caoba, tilo y tapa de arce tallado con acceso total al traste 24",
+        "name":  "Music Man John Petrucci / Majesty (Dream Theater)",
+        "pickups":  "DiMarzio Sonic Ecstasy / Rainmaker + Sistema Piezoeléctrico custom en selletas",
+        "tonalProfile":  "Definición microscópica en pasajes híper-rápidos y posibilidad instantánea de conmutar de distorsión destructiva a tono acústico cristalino.",
+        "context":  "La cumbre de la ingeniería para metal progresivo. Desarrollada junto a John Petrucci para maximizar velocidad, afinación y versatilidad acústica.",
+        "category":  "Progressive High-Tech",
+        "dspRecommendations":  "Ampli High Gain boutique, compresión en limpio, chorus sutil en solos y reverb estéreo inmersiva."
+    },
+    {
+        "body":  "Fresno del norte o tilo con mástil de arce frotado a mano al aceite",
+        "name":  "Charvel / EVH Wolfgang \u0027Frankenstrat\u0027 (Eddie Van Halen)",
+        "pickups":  "Humbucker EVH Wolfgang de salida caliente atornillado directamente al cuerpo",
+        "tonalProfile":  "El sagrado \u0027Brown Sound\u0027: saturación valvular esponjosa (\u0027chewy\u0027), armónicos que brotan en cada traste, medios orgánicos y graves cálidos jamás ásperos.",
+        "context":  "El invento casero que cambió para siempre el sonido de la guitarra en 1978: un humbucker de Gibson montado en un cuerpo de Stratocaster con puente trémolo.",
+        "category":  "Brown Sound Origin",
+        "dspRecommendations":  "Ampli Plexi con Variac virtual (voltaje reducido), pedal Phaser (Phase 90) antes de la distorsión, delay de 250ms con 2 repeticiones."
+    },
+    {
+        "body":  "Arce macizo con mástil de arce y puente Floyd Rose original",
+        "name":  "Kramer Baretta \u002784 (Eddie Van Halen / 80s Sunset Strip)",
+        "pickups":  "1 Único Humbucker Seymour Duncan JB inclinado en puente",
+        "tonalProfile":  "Ataque estridente, directo, mordiente y sin pérdidas de señal; la esencia del glam metal y hard rock ochentero.",
+        "context":  "El icono visual y sonoro de MTV en los 80. Un solo control de volumen y una sola pastilla inclinada para captar armónicos agudos.",
+        "category":  "80s Hair Metal",
+        "dspRecommendations":  "Ampli británico modificado al máximo, chorus analógico y reverb Plate generosa."
+    },
+    {
+        "body":  "Construcción \u0027Neck-Through-Body\u0027 de arce central con alas de aliso",
+        "name":  "Jackson Soloist / Rhoads V (Randy Rhoads / Marty Friedman - Megadeth)",
+        "pickups":  "Seymour Duncan JB en puente y \u002759 en mástil (o set EMG 81/85)",
+        "tonalProfile":  "La pastilla JB entrega un \u0027gruñido\u0027 de medios altos (upper-mid snarl) que corta a través de cualquier mezcla; agudos afilados para solos veloces.",
+        "context":  "La estética y sonido del thrash y speed metal de los 80. Usada en \u0027Rust in Peace\u0027 de Megadeth y los himnos inmortales de Ozzy Osbourne.",
+        "category":  "Classic 80s Thrash",
+        "dspRecommendations":  "Ampli británico modificado de alta ganancia, delay en solo de 350ms, reverb de sala discreta."
+    },
+    {
+        "body":  "Diseño angular agresivo derivado de la Explorer",
+        "name":  "Jackson Kelly (Marty Friedman - Megadeth)",
+        "pickups":  "Seymour Duncan JB / Custom Shop Marty Friedman",
+        "tonalProfile":  "Graves con enorme percusión y medios penetrantes ideales para escalas exóticas orientales y vibrato amplio.",
+        "context":  "El arma de Marty Friedman para los legendarios solos de \u0027Tornado of Souls\u0027 y \u0027Holy Wars\u0027 en Megadeth.",
+        "category":  "Thrash Exotic Virtuosity",
+        "dspRecommendations":  "Marshall JCM800 empujado por pedal overdrive, delay estéreo sincronizado."
+    },
+    {
+        "body":  "Cuerpo híbrido masivo de Flying V y Explorer con pala gigante en \u0027V\u0027",
+        "name":  "Dean ML (Dimebag Darrell - Pantera)",
+        "pickups":  "Bill Lawrence L500XL / Seymour Duncan Dimebucker en puente",
+        "tonalProfile":  "Agudos de cuchilla, ecualización en \u0027V\u0027 extrema (mid-scoop quirúrgico) y armónicos artificiales que chillan al hacer dive-bombs con el trémolo.",
+        "context":  "El tono desgarrador de Dimebag Darrell en \u0027Cowboys from Hell\u0027, \u0027Vulgar Display of Power\u0027 y \u0027Walk\u0027.",
+        "category":  "Groove Metal Legend",
+        "dspRecommendations":  "Ampli Randall a transistores de alta ganancia o modern high gain con medios rebajados al 35% y agudos al 80%."
+    },
+    {
+        "body":  "Caoba maciza neck-through con cuernos arqueados",
+        "name":  "BC Rich Mockingbird (Slash / Chuck Schuldiner - Death)",
+        "pickups":  "2 Humbuckers DiMarzio Super Distortion con circuito de varitone pasivo",
+        "tonalProfile":  "Sustain muy extendido, masa armónica densa y versatilidad gracias a los conmutadores de inversión de fase.",
+        "context":  "Usada por Slash en el videoclip y conciertos de \u0027You Could Be Mine\u0027 (Terminator 2) y por leyendas del metal.",
+        "category":  "Classic Heavy Metal",
+        "dspRecommendations":  "Marshall JCM800 saturado con graves firmes y reverb de sala corta."
+    },
+    {
+        "body":  "Aliso ligero de diseño angular afilado en negro medianoche",
+        "name":  "BC Rich Stealth (Chuck Schuldiner - Death)",
+        "pickups":  "1 Sola pastilla Dimarzio X2N de salida monstruosa en puente",
+        "tonalProfile":  "Ganancia extrema, transitorios inmediatos y medios abrasivos diseñados para riffs híper-complejos a tempo vertiginoso.",
+        "context":  "El instrumento que creó el Death Metal técnico en discos seminales como \u0027Symbolic\u0027 y \u0027The Sound of Perseverance\u0027.",
+        "category":  "Death Metal Pioneer",
+        "dspRecommendations":  "Marshall Valvestate 8100 crujiente con boost de medios, puerta de ruido estricta."
+    },
+    {
+        "body":  "Aliso o padauk natural sin barniz con unión Stephens Extended Cutaway",
+        "name":  "Washburn N4 (Nuno Bettencourt - Extreme)",
+        "pickups":  "Bill Lawrence L500 en puente + Seymour Duncan \u002759 en mástil",
+        "tonalProfile":  "El sonido más percusivo del rock virtuoso: chasquido seco de púa, dinámica limpia al bajar volumen y tono cálido en solos.",
+        "context":  "La guitarra de \u0027Get the Funk Out\u0027 y \u0027More Than Words\u0027. El mástil sin talón permite digitaciones inverosímiles en los trastes altos.",
+        "category":  "Funk Metal Virtuoso",
+        "dspRecommendations":  "Ampli Soldano SLO-100 o Marshall JCM800 crujiente sin exceso de reverb."
+    },
+    {
+        "body":  "Caoba pesada con tapa curvada de arce acolchado y escala extendida de 25.5 pulgadas",
+        "name":  "Schecter Hellraiser / C-1 (Metalcore \u0026 Djent Drop Tunings)",
+        "pickups":  "Pastillas activas EMG 81TW / 89R con bobinado conmutable",
+        "tonalProfile":  "Compresión uniforme de entrada, graves implacables que no se desmoronan en afinaciones caídas y cero inducción de acoples molestos.",
+        "context":  "La guitarra emblema de la era dorada del metalcore de los 2000s (Avenged Sevenfold, Killswitch Engage) y bandas de afinaciones en Drop C y Drop B.",
+        "category":  "Modern Metalcore",
+        "dspRecommendations":  "Noise Gate en nivel alto, Low Cut riguroso en cabina para limpiar el subgrave, saturación moderna agresiva."
+    },
+    {
+        "body":  "Caoba de una pieza con tapa tallada de arce rizado y escala de 25 pulgadas",
+        "name":  "PRS Custom 24 (Carlos Santana / Al Di Meola / Mark Tremonti)",
+        "pickups":  "2 Humbuckers PRS 85/15 o Dragon con selector rotativo/blade",
+        "tonalProfile":  "Articulación sin rival, medios vocales cantables, respuesta homogénea y sustain infinito que facilita técnicas de ligado y bending melódico.",
+        "context":  "El puente perfecto entre Gibson y Fender creado por Paul Reed Smith. El sonido solista fluido de Carlos Santana y la potencia de Alter Bridge.",
+        "category":  "Modern Double Cut",
+        "dspRecommendations":  "Overdrive fluido tipo Tubescreamer empujando ampli estilo Cali Lead / US Boutique, delay estéreo sincronizado."
+    },
+    {
+        "body":  "Caoba con tapa de arce rizado de grado 10-Top y escala corta de 24.5 pulgadas",
+        "name":  "PRS Santana II (Carlos Santana)",
+        "pickups":  "Santana Signature Humbuckers de bobinado grueso y salida cálida",
+        "tonalProfile":  "Tono redondo y dulce como un violonchelo; sustain que dura compases enteros con tono bajado al 6 y respuesta cremosa.",
+        "context":  "La voz inconfundible de Carlos Santana en \u0027Smooth\u0027, \u0027Black Magic Woman\u0027, \u0027Oye Como Va\u0027 y \u0027Europa\u0027.",
+        "category":  "Latin Rock Legend",
+        "dspRecommendations":  "Mesa Boogie Mark I clásico o Dumble Overdrive Special, compresión cálida, delay de 320ms."
+    },
+    {
+        "body":  "Caoba gruesa de corte clásico con puente trémolo flotante modificado",
+        "name":  "PRS Tremonti (Mark Tremonti - Creed / Alter Bridge)",
+        "pickups":  "Tremonti Custom Treble (alta ganancia) + Tremonti Bass (cálida)",
+        "tonalProfile":  "Pegada masiva en graves sin emborronar, transitorios percusivos y agudos muy nítidos para afinaciones caídas.",
+        "context":  "La muralla de afinaciones pesadas (Drop D, Open D5) de Mark Tremonti en \u0027Metalingus\u0027 y \u0027Isolation\u0027.",
+        "category":  "Modern Heavy Singlecut",
+        "dspRecommendations":  "Ampli Bogner Uberschall o Mesa Boogie Triple Rectifier, puerta de ruido frontal."
+    },
+    {
+        "body":  "Aliso con mástil de arce y radio vintage de 7.25 pulgadas",
+        "name":  "PRS Silver Sky (John Mayer)",
+        "pickups":  "3 Pastillas Single-Coil 635JM con bobinado vintage afinado al milímetro",
+        "tonalProfile":  "Todo lo bueno del sonido de bobina simple tradicional pero sin asperezas estridentes en agudos; medios redondeados y un low-end sedoso y cálido.",
+        "context":  "La visión contemporánea de John Mayer sobre la Stratocaster perfecta de 1963-64. Usada en \u0027Continuum\u0027 y \u0027Sob Rock\u0027.",
+        "category":  "Modern Vintage Single-Coil",
+        "dspRecommendations":  "Ampli estilo Two-Rock o Fender Super Reverb, Klon Centaur virtual en overdrive, reverb amplia de sala."
+    },
+    {
+        "body":  "Marco hueco de contrachapado de álamo con tapas de Masonite (aglomerado duro)",
+        "name":  "Danelectro 59 DC (Jimmy Page - \u0027Kashmir\u0027 / Link Wray)",
+        "pickups":  "2 Pastillas Lipstick Single-Coil montadas en tubos de latón cromado",
+        "tonalProfile":  "Timbre nasal, tintineante, seco y hueco; su personalidad lo-fi no se parece a ninguna otra guitarra y corta con un encanto \u0027vintage garage\u0027 único.",
+        "context":  "La guitarra de 40 dólares que creó leyendas. Utilizada por Jimmy Page para \u0027Kashmir\u0027 e \u0027In My Time of Dying\u0027 en afinación DADGAD, y Link Wray en \u0027Rumble\u0027.",
+        "category":  "Vintage Lo-Fi Lipstick",
+        "dspRecommendations":  "Ampli a válvulas limpio crujiente con agudos abiertos, compresión suave, reverb de resortes o de sala."
+    },
+    {
+        "body":  "Cuerpo hueco moldeado en fibra de vidrio \u0027Res-O-Glass\u0027 con unión central de madera",
+        "name":  "Supro / Airline \u0027JB Hutto\u0027 (Jack White - The White Stripes)",
+        "pickups":  "2 Pastillas Valco Single-Coil de gran bobinado con estética de humbucker",
+        "tonalProfile":  "Crudo, salvaje, primitivo y rasposo: combina la resonancia elástica de la fibra de vidrio con la saturación explosiva de pastillas simples monstruosas.",
+        "context":  "La icónica guitarra roja de Jack White en The White Stripes (\u0027Seven Nation Army\u0027, \u0027Fell in Love with a Girl\u0027). La definición del garage blues del siglo XXI.",
+        "category":  "Res-O-Glass Garage",
+        "dspRecommendations":  "Fuzz clásico llevado al límite o pedal de octava (Whammy/Octavia), ampli valvular al borde del colapso sónico."
+    },
+    {
+        "body":  "Aliso con bisel alemán invertido (\u0027German Carve\u0027) y mástil ultra plano de trastes bajísimos",
+        "name":  "Mosrite Ventures II / Mark I (Johnny Ramone / The Ventures)",
+        "pickups":  "2 Single-Coil Mosrite de salida extrema (más de 12k de resistencia)",
+        "tonalProfile":  "Ataque híper-rápido y estridente: las pastillas con bobinado salvaje saturan el previo con una furia cortante que definió la velocidad del punk rock.",
+        "context":  "La ametralladora rítmica de Johnny Ramone en The Ramones (\u0027Blitzkrieg Bop\u0027). Tocada sin descanso durante 22 años con golpes hacia abajo ininterrumpidos.",
+        "category":  "Punk Rock Downstroke",
+        "dspRecommendations":  "Marshall JMP Super Lead al máximo sin pedales, ganancia media-alta y ecualización muy cargada en medios para rítmica pura."
+    },
+    {
+        "body":  "Roble y caoba de chimenea centenaria tallada a mano con cámaras acústicas internas",
+        "name":  "Brian May \u0027Red Special\u0027 (Queen)",
+        "pickups":  "3 Pastillas Burns Tri-Sonic modificadas, cableadas en serie con interruptores de fase individuales",
+        "tonalProfile":  "Orquesta de guitarras: la conexión en serie produce un tono gigantesco similar a un humbucker pero con armónicos de cuerda frotada (violín) y riqueza coral.",
+        "context":  "Construida por Brian May y su padre en 1963. La voz inconfundible de Queen en \u0027Bohemian Rhapsody\u0027, \u0027We Will Rock You\u0027 y \u0027Killer Queen\u0027.",
+        "category":  "Boutique Handmade Legend",
+        "dspRecommendations":  "Treble Booster (bloque FX) empujando un amplificador estilo Vox AC30 (UK 30) al máximo de saturación, modulación tipo chorus suave."
+    },
+    {
+        "body":  "Monocasco íntegro de fibra de carbono y resina epoxi de alta densidad sin pala",
+        "name":  "Steinberger GL / Headless Carbon Fiber (Allan Holdsworth / 80s Pop)",
+        "pickups":  "Humbuckers pasivos EMG o Seymour Duncan",
+        "tonalProfile":  "Cero puntos muertos (\u0027dead spots\u0027): uniformidad tonal perfecta en cada traste del mástil, afinación inamovible y un sustain clínico y transparente.",
+        "context":  "La revolución científica de Ned Steinberger en 1980. Usada por virtuosos del fusion como Allan Holdsworth y en la escena pop de los 80.",
+        "category":  "Headless Composite",
+        "dspRecommendations":  "Chorus estéreo ochenteno cristalino, compresor de estudio, ampli limpio de alta fidelidad."
+    },
+    {
+        "body":  "Caoba africana ultra liviana con geometría ergonómica angular única",
+        "name":  "Ernie Ball Music Man St. Vincent (Annie Clark)",
+        "pickups":  "3 Mini-Humbuckers Custom Dimarzio con selector de 5 posiciones",
+        "tonalProfile":  "Articulación prístina: balance exquisito entre la definición de notas en acordes complejos disonantes y la respuesta a texturas de fuzz pesado.",
+        "context":  "Creada específicamente por Annie Clark (St. Vincent) para ergonomía total en directo y una paleta tonal diversa para el art-rock y synth-pop moderno.",
+        "category":  "Modern Art-Rock",
+        "dspRecommendations":  "Pedal de fuzz moderno, reverb Shimmer, amplificador de techo limpio con dinámica rápida."
+    },
+    {
+        "body":  "Caoba con cámaras acústicas diseñadas mediante medición de flujo acústico y tapa de arce",
+        "name":  "Yamaha Revstar Professional / Standard (Modern Japanese Craft)",
+        "pickups":  "2 Humbuckers VH5 o P-90 con circuito pasivo \u0027Focus Switch\u0027",
+        "tonalProfile":  "Resonancia orgánica rica en armónicos; el conmutador Focus Switch simula pastillas sobrebobinadas engordando medios y graves de manera inmediata.",
+        "context":  "Inspirada en las motocicletas Café Racer de Tokio. La sorpresa tonal más aclamada por críticos y músicos de estudio contemporáneos.",
+        "category":  "Modern Japanese Craft",
+        "dspRecommendations":  "Overdrive versátil de grano fino, simulador de cabina abierta 2x12, respuesta fiel a cualquier dinámica de ejecución."
+    },
+    {
+        "body":  "Aliso macizo con tapa de arce flameado y selletas GraphTech de teflón",
+        "name":  "Yamaha Pacifica 611 (Workhorse Session Studio)",
+        "pickups":  "Seymour Duncan SP90 en mástil + Custom 5 Humbucker en puente con split de bobina",
+        "tonalProfile":  "Caleidoscopio de timbres: blues aterciopelado en mástil, funk transparente en bobina simple y riffs roqueros sólidos en puente.",
+        "context":  "La reina de la relación calidad-precio en estudios de grabación independientes. Diseñada para cubrir cualquier encargo musical sin cambiar de instrumento.",
+        "category":  "Modern Session Workhorse",
+        "dspRecommendations":  "Ideal para presets todoterreno con varios bloques de modulación y delays ambientales."
+    },
+    {
+        "body":  "Caoba laminada con bloque central y acabado Cherry clásico",
+        "name":  "Guild Starfire IV / V (Buddy Guy / Jerry Garcia - Grateful Dead)",
+        "pickups":  "2 Pastillas LB-1 \u0027Little Bucker\u0027 anti-hum vintage",
+        "tonalProfile":  "Tono más ligero y campaneante que una 335, con medios aireados y gran respuesta a pasajes melódicos improvisados.",
+        "context":  "El sonido psicodélico de San Francisco en los 60 con Grateful Dead y el Chicago blues eléctrico.",
+        "category":  "Vintage Jam Semi-Hollow",
+        "dspRecommendations":  "Ampli Fender Twin con reverb Spring generosa y saturación transparente."
+    },
+    {
+        "body":  "Marco de álamo con tapas de aglomerado de cartón prensado prensado en los almacenes Sears",
+        "name":  "Silvertone 1448 Amp-in-Case (Beck / Jack White / Dexter Romweber)",
+        "pickups":  "1 Pastilla Lipstick central original de alta impedancia",
+        "tonalProfile":  "Tono nasal, áspero, con encanto primitivo que se deforma musicalmente bajo cualquier pedal de fuzz o saturación.",
+        "context":  "Vendida por correo en los 60 con el amplificador integrado dentro de la maleta de transporte. Icono del rock lo-fi moderno.",
+        "category":  "Primitive Garage Lo-Fi",
+        "dspRecommendations":  "Overdrive crujiente de previo pequeño, slapback echo corto y corte de agudos."
+    },
+    {
+        "body":  "Escala extendida de 25.5 a 27 pulgadas para mantener tensión en la 7ma cuerda en Si (B)",
+        "name":  "Guitarra Eléctrica de 7 Cuerdas (Meshuggah / Korn / Dream Theater)",
+        "pickups":  "Humbuckers pasivos/activos de rango extendido (Fishman Fluence Modern / Bare Knuckle)",
+        "tonalProfile":  "Respuesta masiva de frecuencias hasta 60 Hz. Requiere gestión de graves en el DSP para evitar que la séptima cuerda suene pastosa (\u0027muddy\u0027).",
+        "context":  "Popularizada por Steve Vai en la Universe y convertida en el estándar de afinaciones graves en Nu-Metal, Djent y Progresivo.",
+        "category":  "Extended Range 7-String",
+        "dspRecommendations":  "Filtro Low Cut activo en previo o cabina a 100-120 Hz, puerta de ruido estricta, ampli High Gain con ganancia media para claridad en acordes."
+    },
+    {
+        "body":  "Trastes en abanico (Fanned Frets / Multiescala de 26 a 28 pulgadas) para balance de tensión",
+        "name":  "Guitarra Multiescala de 8 Cuerdas (Animals As Leaders - Tosin Abasi)",
+        "pickups":  "Fishman Fluence Tosin Abasi Signature multivoicing",
+        "tonalProfile":  "Rango tímbrico colosal que compite con el bajo eléctrico; demanda una claridad quirúrgica absoluta para distinguir notas en intervalos cerrados.",
+        "context":  "La frontera de la técnica moderna de \u0027thumping\u0027 y progresivo polirrítmico de Tosin Abasi y Meshuggah. Llega al Fa# (F#) grave.",
+        "category":  "Extended Range 8-String",
+        "dspRecommendations":  "Low Cut en 130-150 Hz en entrada, realce en 2 kHz - 4 kHz para ataque de púa y dedos, amplificador Modern High Gain con compresor."
+    },
+    {
+        "body":  "Escala larga de 30 pulgadas afinada de Mi a Mi (E-A-D-G-B-E) una octava completa por debajo",
+        "name":  "Fender Bass VI / Guitarra Barítono (The Cure / Beatles - \u0027Let It Be\u0027 / Spaghetti Western)",
+        "pickups":  "3 Pastillas Single-Coil tipo Jaguar con interruptor de corte de graves",
+        "tonalProfile":  "Un híbrido hipnótico entre bajo eléctrico y guitarra con \u0027twang\u0027: gruñido grave profundo pero capaz de ejecutar acordes y arpegios melódicos cristalinos.",
+        "context":  "Tocada por John Lennon en \u0027Let It Be\u0027, Robert Smith en las melodías nostálgicas de The Cure (\u0027Disintegration\u0027) y bandas sonoras de Ennio Morricone.",
+        "category":  "Baritone / Bass VI",
+        "dspRecommendations":  "Ampli de bajo con agudos presentes o ampli de guitarra con corte de subgraves, chorus analógico sutil y reverb primaveral."
+    },
+    {
+        "body":  "Tapa armónica de abeto Sitka con aros y fondo de palisandro de la India macizo",
+        "name":  "Martin D-28 / Taylor 814ce (Electroacústica Piezo / Micrófono)",
+        "pickups":  "Transductor piezoeléctrico bajo selleta o sistema de micrófono interno",
+        "tonalProfile":  "Respuesta plana y extendida de 20 Hz a 15 kHz; brillo de aire en altas frecuencias sin aspereza piezoeléctrica, cuerpo amaderado y graves nobles.",
+        "context":  "El sonido acústico de referencia en miles de grabaciones históricas de folk, pop, baladas acústicas y country.",
+        "category":  "Acoustic Simulation",
+        "dspRecommendations":  "Bypass de saturación eléctrica, modelo de previo Acoustic, cabina con corte suave, compresor transparente y reverb Hall espaciosa."
+    },
+    {
+        "body":  "Dreadnought de hombros caídos (Slope Shoulder) con tapa de abeto y fondo de caoba",
+        "name":  "Gibson J-45 \u0027The Workhorse\u0027 (Bob Dylan / John Lennon / Noel Gallagher)",
+        "pickups":  "Pastilla interna L.R. Baggs Element bajo selleta",
+        "tonalProfile":  "Graves cálidos y comprimidos naturalmente que dejan espacio perfecto para la voz del cantante sin invadir el rango medio.",
+        "context":  "La acústica más grabada de la historia del folk y rock. La voz de Bob Dylan, Donovan y los himnos acústicos de Oasis (\u0027Wonderwall\u0027).",
+        "category":  "Dreadnought Singer-Songwriter",
+        "dspRecommendations":  "Previo acústico transparente, corte de graves en 80Hz, compresor suave y reverb Plate."
+    },
+    {
+        "body":  "Caja cuadrada grande de caoba con tapa de abeto Sitka y golpeador grabado de colibrí",
+        "name":  "Gibson Hummingbird (Keith Richards - \u0027Wild Horses\u0027 / Gram Parsons)",
+        "pickups":  "Pastilla magnética acústica o transductor piezoeléctrico",
+        "tonalProfile":  "Tono dulce, balanceado, brillante y suavemente aterciopelado ideal para rasgueos abiertos con púa delgada.",
+        "context":  "El rasgueo acústico de los Rolling Stones en \u0027Wild Horses\u0027, \u0027Angie\u0027 y el country-rock de los 70.",
+        "category":  "Square-Shoulder Acoustic",
+        "dspRecommendations":  "Compresor óptico suave, ecualización con realce dulce en 10kHz y reverb acústica."
+    },
+    {
+        "body":  "Caja tradicional española o electroacústica delgada con cutaway",
+        "name":  "Guitarra Clásica / Cuerdas de Nylon (Tim Henson - Polyphia / Bossa Nova)",
+        "pickups":  "Piezoeléctrico bajo selleta adaptado para tensión de cuerdas de nylon",
+        "tonalProfile":  "Ataque suave, cálido y dulce en agudos sin el chasquido acerado del metal; medios profundos y dinámica íntima al toque de yemas o uñas.",
+        "context":  "El virtuosismo moderno de \u0027Playing God\u0027 de Polyphia y la tradición de la Bossa Nova de Joao Gilberto y el flamenco español.",
+        "category":  "Nylon String Acoustic",
+        "dspRecommendations":  "Compresor de respuesta rápida para igualar el volumen de notas pulsadas, reverb Shimmer sutil, cero saturación."
+    },
+    {
+        "body":  "Caoba con doble cámara acústica y tapa sólida de cedro, diseñada para cero acoples en directo",
+        "name":  "Godin Multiac Nylon / Grand Concert (Flamenco \u0026 Jazz Fusion)",
+        "pickups":  "Selletas individuales RMC con sensor piezo individual por cuerda",
+        "tonalProfile":  "Aislamiento perfecto de frecuencias: tono flamenco puro o jazzero de nylon capaz de sonar a volúmenes de festival sin retroalimentación ni resonancias descontroladas.",
+        "context":  "La guitarra acústica preferida en conciertos de estadio por Al Di Meola, Paco de Lucía y John McLaughlin.",
+        "category":  "Stage Nylon High-Tech",
+        "dspRecommendations":  "Previo limpio de alta transparencia, ecualización con recorte en 400Hz para limpiar la mezcla, compresión sutil y delay difuso."
+    },
+    {
+        "body":  "Fondo redondeado de fibra de vidrio Lyrachord con tapa de abeto o fibra de carbono",
+        "name":  "Ovation Custom Balladeer / Adamas (Al Di Meola / Glen Campbell)",
+        "pickups":  "Pastilla piezoeléctrica Ovation integrada con previo activo",
+        "tonalProfile":  "Ataque ultra rápido y percusivo, gran definición de púa para fraseos veloces y resistencia absoluta a los acoples.",
+        "context":  "Pionera en los 70 y 80 para los acústicos a velocidad de vértigo de Al Di Meola y Paco de Lucía en \u0027Friday Night in San Francisco\u0027.",
+        "category":  "Composite Bowl Acoustic",
+        "dspRecommendations":  "Chorus sutil, compresión de ataque rápido, reverb de sala acústica."
+    },
+    {
+        "body":  "Cuerpo hueco de caoba con orificio acústico \u0027Stringed Instrument Resonance System\u0027 (SIRS)",
+        "name":  "Fender Telecaster Acoustasonic (Modern Acoustic/Electric Hybrid)",
+        "pickups":  "Acoustic Engine piezo bajo puente + sensor de cuerpo + pastilla magnética Noiseless",
+        "tonalProfile":  "Flexibilidad total: desde el aire orgánico de madera acústica hasta el mordisco eléctrico de bobina simple sin cambiar de instrumento.",
+        "context":  "La guitarra híbrida moderna que permite transicionar de una acústica dreadnought a una Telecaster saturada con un giro de potenciómetro.",
+        "category":  "Hybrid Acoustic-Electric",
+        "dspRecommendations":  "Canal limpio cristalino para el modo acústico o previo crunch para el modo magnético."
+    }
+]

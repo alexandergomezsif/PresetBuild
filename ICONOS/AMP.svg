@@ -1,0 +1,11 @@
+<svg viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="120" height="120" rx="24" fill="#18181b"/>
+  <!-- Ícono -->
+  <g fill="#10b981">
+    <rect x="34" y="56" width="14" height="8" rx="4"/>
+    <circle cx="58" cy="60" r="4"/>
+    <circle cx="72" cy="60" r="4"/>
+    <circle cx="86" cy="60" r="4"/>
+  </g>
+</svg>

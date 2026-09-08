@@ -1,0 +1,9 @@
+<svg viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo con borde de selección -->
+  <rect x="2" y="2" width="116" height="116" rx="24" fill="#18181b" stroke="#06b6d4" stroke-width="4"/>
+  <!-- Ícono -->
+  <g fill="none" stroke="#d946ef" stroke-width="4">
+    <circle cx="48" cy="60" r="22"/>
+    <circle cx="72" cy="60" r="22"/>
+  </g>
+</svg>

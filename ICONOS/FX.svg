@@ -1,0 +1,9 @@
+<svg viewBox="0 0 120 120" width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect width="120" height="120" rx="24" fill="#18181b"/>
+  <!-- Ícono -->
+  <g stroke="#d946ef" stroke-width="3" fill="none">
+    <rect x="38" y="38" width="44" height="44" rx="10"/>
+    <rect x="38" y="38" width="44" height="44" rx="10" transform="rotate(45 60 60)"/>
+  </g>
+</svg>
